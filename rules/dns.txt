@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 149062
-! Update Time(UTC+8): 2024-08-07 16:25:29
+! Total count: 149077
+! Update Time(UTC+8): 2024-08-08 00:26:27
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-analytics*.huami.com^
@@ -19406,6 +19406,7 @@
 ||b3stcond1tions.com^
 ||b3z29k1uxb.com^
 ||b400393baba7cd476a3.com^
+||b41732fb1b.com^
 ||b42rracj.com^
 ||b439570158.29dc237c9b.com^
 ||b44794baad.com^
@@ -24853,6 +24854,7 @@
 ||bytemgdd.com^
 ||bytesdictatescoop.com^
 ||bytesreunitedcedar.com^
+||bytmfj.xyz^
 ||bytogeticr.com^
 ||bytupkvc.xyz^
 ||byuwkbv.top^
@@ -38335,6 +38337,7 @@
 ||data.marketing.super99.com^
 ||data.marketing.williamsf1.com^
 ||data.marketingbmg.bancobmg.com.br^
+||data.media-lab.ai^
 ||data.mediaworld.it^
 ||data.member.aware.com.au^
 ||data.member.unitedhealthcare.com^
@@ -44934,7 +44937,6 @@
 ||ee.zowmgxpz.cn^
 ||ee.zq13n.cn^
 ||ee035.cn^
-||ee0ca7f291.b41732fb1b.com^
 ||ee625e4b1d.com^
 ||ee6a35c1eeee.com^
 ||ee768d2e27.0f9be2e1ef.com^
@@ -46706,6 +46708,7 @@
 ||eoasxirquewfyn.com^
 ||eobvppi.com^
 ||eodufofs.com^
+||eoedchucdtkep.com^
 ||eofjtw.jjshouse.se^
 ||eofripvanwin.org^
 ||eofst.com^
@@ -53289,6 +53292,7 @@
 ||fzgpzp.opodo.de^
 ||fzgrpqktmq.com^
 ||fzipipalkri.com^
+||fzivunnigra.com^
 ||fzjchj.com^
 ||fzlbvs.schuhe24.de^
 ||fzllis.cn^
@@ -61928,6 +61932,7 @@
 ||httr.redskins.com^
 ||htubzpb.cn^
 ||htucmyqwij.com^
+||htudbybel.com^
 ||htufhvsglyoy.com^
 ||hturnshal.com^
 ||htvh.vf5yb4.cn^
@@ -67821,6 +67826,7 @@
 ||javbuzz.com^
 ||javcost.fun^
 ||javdawn.fun^
+||javgenetic11.fun^
 ||javgg.eu^
 ||javgulf.fun^
 ||javguru.gggsss.site^
@@ -71458,6 +71464,7 @@
 ||ktocpw.silabg.com^
 ||ktoioo.xyz^
 ||ktokimdahar.com^
+||ktpcsqnij.com^
 ||ktqiyjojiya.com^
 ||ktrackdata.com^
 ||ktracker.kumparan.com^
@@ -80889,6 +80896,7 @@
 ||massacreintentionalmemorize.com^
 ||massacresurrogate.com^
 ||massage-v-almaty.kz^
+||massagefumaria.click^
 ||massariuscdn.com^
 ||massbrag.care^
 ||massecephid.uno^
@@ -89839,6 +89847,7 @@
 ||noirpirater.com^
 ||noiselessplough.com^
 ||noiselessvegetables.com^
+||noisesperusemotel.com^
 ||noisybeforemorton.com^
 ||noisyjoke.pro^
 ||noisyoursarrears.com^
@@ -100647,6 +100656,7 @@
 ||ptoubeeh.net^
 ||ptouckop.xyz^
 ||ptoumsid.net^
+||ptoupisso.net^
 ||ptoushoa.com^
 ||ptoutsexe.com^
 ||ptowouse.xyz^
@@ -135253,6 +135263,7 @@
 ||ukgfxw.satofull.jp^
 ||uki2.secureforms.mcafee.com^
 ||ukidiayddbshfl.com^
+||ukindwouldmeu.com^
 ||ukizeiasninan.info^
 ||ukjphn.vitaminler.com^
 ||ukjwyv.icu^
@@ -139561,6 +139572,7 @@
 ||vpipi.com^
 ||vpivyf.meshki.com.au^
 ||vpixrlkggv.com^
+||vpkdrxyx.com^
 ||vpkq.cn^
 ||vpl.voyage-prive.pl^
 ||vplayer.newseveryday.com^
@@ -146865,6 +146877,7 @@
 ||ymqnky.bagaggio.com.br^
 ||ymrtre.scandinavianoutdoor.fi^
 ||ymrzr.com^
+||ymtmwjgsjsv.com^
 ||ymtracking.com^
 ||ymuitydkdoy.com^
 ||ymvikp.estadao.com.br^
@@ -148269,6 +148282,7 @@
 ||zhzclbysg.com^
 ||zhzzx.com^
 ||zi.kissbluest.com^
+||zi3nna.xyz^
 ||zi8ivy4b0c7l.com^
 ||ziapdq.mifcom.ch^
 ||zibaweva.com^
@@ -148568,6 +148582,7 @@
 ||zombieslayer-alternate.kano.link^
 ||zombieslayer.kano.link^
 ||zombisarake.top^
+||zombyfairfax.com^
 ||zomcz.cyou^
 ||zomuhan.ru^
 ||zomuka.ru^
