@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 149090
-! Update Time(UTC+8): 2024-08-08 16:26:33
+! Total count: 149100
+! Update Time(UTC+8): 2024-08-09 00:26:26
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-analytics*.huami.com^
@@ -17870,6 +17870,7 @@
 ||associationwish.com^
 ||associazio.com^
 ||assoctrac.com^
+||assodbobfad.com^
 ||assodigitale.fr^
 ||assoilrehboc.top^
 ||assortmentberry.com^
@@ -19691,6 +19692,7 @@
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs04.shop^
+||baijs05.shop^
 ||baijs05.xyz^
 ||baijs06.xyz^
 ||baijs07.xyz^
@@ -39098,6 +39100,7 @@
 ||dearfiring.com^
 ||dearlyseedsad.com^
 ||dearlystoop.com^
+||deasandcomemunic.com^
 ||deatchshipsmotor.com^
 ||deathssm.com^
 ||deauduafzgezzfgm.top^
@@ -42106,6 +42109,7 @@
 ||doujs03.shop^
 ||doujs03.xyz^
 ||doujs04.shop^
+||doujs05.shop^
 ||doujs05.xyz^
 ||doujs06.xyz^
 ||doujs07.xyz^
@@ -48614,6 +48618,7 @@
 ||f5.mtqys.com^
 ||f5.track-mv-01.com^
 ||f53a.com^
+||f54cd504.xyz^
 ||f59408d48d.com^
 ||f5biz.com^
 ||f5f9bec983.92d8d67482.com^
@@ -60329,6 +60334,7 @@
 ||hh6666.com^
 ||hh6820123.com^
 ||hh9uv6tq.com^
+||hhausq.top^
 ||hhb123.tk^
 ||hhbxcs.tylko.com^
 ||hhbypdoecp.com^
@@ -71458,6 +71464,7 @@
 ||kthjuw.lyst.com.au^
 ||ktien.vn^
 ||ktienld.top^
+||ktikpuruxasq.com^
 ||ktkjmp.com^
 ||ktkvcpqyh.xyz^
 ||ktlrhudvlsu.com^
@@ -86940,6 +86947,7 @@
 ||mwcxljdywq.com^
 ||mwcxmf.marbo-sport.pl^
 ||mwdwepok.xyz^
+||mwerilxx.top^
 ||mweriox.top^
 ||mwf7.montecarlowellness.com^
 ||mwfdaciicqhyrj.com^
@@ -113310,6 +113318,7 @@
 ||smart1019.lplnow.com^
 ||smart1064.lplnow.com^
 ||smart112.lplnow.com^
+||smart1adserver.com^
 ||smart212.lplnow.com^
 ||smart2cnjuh34jb.com^
 ||smart322.lplnow.com^
@@ -142829,6 +142838,7 @@
 ||wordc.ga^
 ||wordego.com^
 ||worden.samenresultaat.nl^
+||wordfence.me^
 ||wordingget.com^
 ||wordmonetize.com^
 ||wordpersonify.com^
