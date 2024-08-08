@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 149088
-! Update Time(UTC+8): 2024-08-08 09:36:45
+! Total count: 149090
+! Update Time(UTC+8): 2024-08-08 16:26:33
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-analytics*.huami.com^
@@ -90937,6 +90937,7 @@
 ||oalitoug.com^
 ||oalsauwy.net^
 ||oalselry.com^
+||oaltusoamp.com^
 ||oamoatch.com^
 ||oamsrhads.us.publicus.com^
 ||oamtorsa.net^
@@ -128777,6 +128778,7 @@
 ||tpdads.com^
 ||tpdethnol.com^
 ||tpe.theparticipanteffect.com^
+||tpfgcdelscgfatf.com^
 ||tpfrro.justlease.nl^
 ||tphcrjth.xyz^
 ||tpizy1uy3x.ru^
