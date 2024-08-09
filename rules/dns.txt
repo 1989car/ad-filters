@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 149128
-! Update Time(UTC+8): 2024-08-09 16:26:23
+! Total count: 149133
+! Update Time(UTC+8): 2024-08-10 00:26:12
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-analytics*.huami.com^
@@ -12025,6 +12025,7 @@
 ||afi.school.web-marketing.ai^
 ||afi.sougou.web-marketing.ai^
 ||afi.ssl.gmobb.jp^
+||afiletoget.click^
 ||afili.ru^
 ||afiliapub.click^
 ||afilio.com.br^
@@ -15015,6 +15016,7 @@
 ||annons.svenskjakt.se^
 ||annons.turist.se^
 ||annonser.dagbladet.no^
+||annonsserver.se^
 ||annotationdiverse.com^
 ||annotationmadness.com^
 ||announcedseaman.com^
@@ -17016,6 +17018,7 @@
 ||aps.hearstnp.com^
 ||apsalar.com^
 ||apsatnlfylz.com^
+||apsehick.date^
 ||apsidalmungoos.top^
 ||apsis1.com^
 ||apsislead.com^
@@ -20687,7 +20690,6 @@
 ||beacon-v2.helpscout.net^
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
-||beacon.apsehick.date^
 ||beacon.carfax.com^
 ||beacon.cdn.qq.com^
 ||beacon.cdnma.com^
@@ -23194,6 +23196,7 @@
 ||boptegre.com^
 ||bopvetgel.com^
 ||boqcfrsfdykjhb.com^
+||boqmjxtkwn.com^
 ||boqsxdpx.xyz^
 ||boqufs.2nn.jp^
 ||bordeaux.futurecdn.net^
@@ -50262,6 +50265,7 @@
 ||fileway.org^
 ||filewhite.com^
 ||filexan.com^
+||filexstorage.site^
 ||fileyellow.com^
 ||filezfast.com^
 ||filezilla.fr^
@@ -52171,6 +52175,7 @@
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
 ||freedomadnetwork.com^
+||freedomgift50.com^
 ||freedominfo.net^
 ||freedomofsoftware.com^
 ||freedomsaved.com^
@@ -53008,6 +53013,7 @@
 ||fundraising.centuryresources.com^
 ||fundsbe.com^
 ||fundsdoge.org^
+||funfilenow.com^
 ||fungamecheats.com^
 ||fungames.vip^
 ||fungus.online^
@@ -53477,7 +53483,6 @@
 ||gadbytyhmybnir.com^
 ||gadgeteer.pdamart.com^
 ||gadgetgiveawayz.com^
-||gadgetinfinityz.com^
 ||gadgetnews.one^
 ||gadgetproof.net^
 ||gadgetsytecnologia.com^
@@ -68908,6 +68913,7 @@
 ||jounlock.com^
 ||joupteni.xyz^
 ||joureredtrk.com^
+||jourl.live^
 ||journera.com^
 ||journey.cisco.com^
 ||journeyembankmentsubjects.com^
@@ -70319,6 +70325,7 @@
 ||kettlewharves.com^
 ||keuktyouexpe.info^
 ||kevuci.ru^
+||kewal.shop^
 ||keweifuwu.shop^
 ||kewnemhpbmzkm.com^
 ||kexojito.com^
@@ -88169,6 +88176,7 @@
 ||navi30.ru^
 ||navi32.com^
 ||navi33.com^
+||navi34.com^
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
@@ -88177,9 +88185,7 @@
 ||navi4.com^
 ||navi40.com^
 ||navi42.ru^
-||navi44.com^
 ||navi45.ru^
-||navi48.com^
 ||navi5.com^
 ||navi50.com^
 ||navi53.com^
@@ -89572,7 +89578,6 @@
 ||nip69.com^
 ||nip8.com^
 ||nip84.com^
-||nip89.com^
 ||nip9.com^
 ||nipe4head.com^
 ||nipmucktwicer.com^
@@ -95774,7 +95779,6 @@
 ||pay.mobile.sina.cn^
 ||pay.sboot.cn^
 ||pay.truemoney.me^
-||pay.www.cdek.id19845672.info^
 ||pay4results24.eu^
 ||payae8moon9.com^
 ||paybackmodified.com^
@@ -102785,7 +102789,6 @@
 ||qxlwpaxlwg.com^
 ||qxm.pluto.sogou.com^
 ||qxmsmlkjwqz.com^
-||qxowtod.cn^
 ||qxplus.ru^
 ||qxpwiqydg.com^
 ||qxqtycvrm.com^
@@ -113119,6 +113122,7 @@
 ||sleepcartoon.com^
 ||sleeper-sofa.dreamhoster.com^
 ||sleepytoadfrosty.com^
+||sleetposition.website^
 ||sleeveturbulent.com^
 ||slendercosts.com^
 ||slenderglowingcontrary.com^
@@ -117197,6 +117201,7 @@
 ||softwaretricks.net^
 ||softwaretun.com^
 ||softwebzone.com^
+||softzspot.com^
 ||sogadetin.com^
 ||sogetchoco.top^
 ||soggysponge.com^
@@ -126189,7 +126194,6 @@
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||teslafond.io^
 ||teslaicrypto.com^
-||teslaking.io^
 ||tesopportunites.fr^
 ||tesousefulhead.info^
 ||tessratans.com^
@@ -138688,6 +138692,7 @@
 ||vinosedermol.com^
 ||vinpearl1.vingroupsny.com^
 ||vins-bourgorne.fr^
+||vinsgcs.com^
 ||vinsight.de^
 ||vintagebox.pro^
 ||vintageperk.com^
