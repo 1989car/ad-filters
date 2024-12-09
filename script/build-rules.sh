@@ -3,16 +3,23 @@
 cd $(cd "$(dirname "$0")";pwd)
 #下载规则
 urls=(
-    # "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt"
-    # "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt"
-    # "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
-
-    # "https://easylist-downloads.adblockplus.org/easylist.txt"
-    # "https://easylist-downloads.adblockplus.org/easylistchina.txt"
-    # "https://easylist-downloads.adblockplus.org/easyprivacy.txt"
-
-    "https://anti-ad.net/easylist.txt"
-    "https://adrules.top/dns.txt"
+    https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+    https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt
+    https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Huawei-AdBlock.txt
+    https://raw.githubusercontent.com/durablenapkin/block/master/luminati.txt
+    https://raw.githubusercontent.com/durablenapkin/block/master/tvstream.txt
+    https://zerodot1.gitlab.io/CoinBlockerLists/list_browser.txt
+    https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+    https://easylist.to/easylist/easylist.txt
+    https://easylist.to/easylist/easyprivacy.txt
+    https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+    https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
+    https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
+    https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
+    https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt
+    https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+    https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt
+    https://ublockorigin.github.io/uAssetsCDN/filters/unbreak.min.txt
 )
 
 for url in "${urls[@]}"; do
