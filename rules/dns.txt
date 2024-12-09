@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
 ! Total count: 134038
-! Update Time(UTC+8): 2024-12-09 10:00:17
+! Update Time(UTC+8): 2024-12-09 16:33:03
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-analytics*.huami.com^
