@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 112080
-! Update Time(UTC+8): 2024-12-10 16:32:34
+! Total count: 112101
+! Update Time(UTC+8): 2024-12-11 00:32:26
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -16864,7 +16864,6 @@
 ||bizx.info^
 ||bizz.cochraneco.com^
 ||bizzclick.com^
-||bj.flungsnibble.com^
 ||bj1110.online^
 ||bj2550.com^
 ||bja2.destinia.cz^
@@ -18405,6 +18404,7 @@
 ||bulgingquintet.top^
 ||bulk.aomg5bzv7.com^
 ||bulkaccompanying.com^
+||bulkagetufas.com^
 ||bulkconflictpeculiarities.com^
 ||bulkd.co^
 ||bulky-battle.com^
@@ -23276,6 +23276,7 @@
 ||continuation423.fun^
 ||continue-installing.com^
 ||continue.com^
+||continue.dasboard184-account.com^
 ||continuousselfevidentinestimable.com^
 ||contoso-my.sharepoint.com^
 ||contractor-app.buildforce.com^
@@ -31512,6 +31513,7 @@
 ||discussedpliant.com^
 ||discussingmaze.com^
 ||disdainsneeze.com^
+||disdeinrechar.top^
 ||diseaseexternal.com^
 ||diseaseplaitrye.com^
 ||disembarkappendix.com^
@@ -36060,6 +36062,7 @@
 ||event.karrotmarket.com^
 ||event.lib.visumo.io^
 ||event.mazars.nl^
+||event.newsbreak.com^
 ||event.ortec.com^
 ||event.platform.autotrader.com.au^
 ||event.platform.tunein.com^
@@ -38300,6 +38303,7 @@
 ||fluingdulotic.com^
 ||flukepopped.com^
 ||flumgibble.flustycs.store^
+||flungsnibble.com^
 ||fluoricfatback.com^
 ||fluqualificationlarge.com^
 ||flurry.agentportal-*.yahoodns.net^
@@ -42710,6 +42714,7 @@
 ||gribseep.net^
 ||gridcash.net^
 ||gridder.co^
+||gridedloamily.top^
 ||gridiogrid.com^
 ||gridline.cn^
 ||gridrelay27.co^
@@ -45554,6 +45559,7 @@
 ||hyfntrak.com^
 ||hyfvlxm.com^
 ||hygeistagua.com^
+||hygricurceole.com^
 ||hyhy2.fun^
 ||hyibby.lampen24.be^
 ||hyislou.top^
@@ -54992,6 +54998,7 @@
 ||log.collectaction.com^
 ||log.cookieyes.com^
 ||log.cpex.cz^
+||log.daibieunhandan.vn^
 ||log.daidoanket.vn^
 ||log.dance^
 ||log.dantocmiennui.vn^
@@ -55411,6 +55418,7 @@
 ||longmansuchcesu.info^
 ||lonsbv.mobile24.fr^
 ||lontent.powzerz.lol^
+||loobilysubdebs.com^
 ||loobmf.hardloop.fr^
 ||loodauni.com^
 ||loohiwez.net^
@@ -56940,6 +56948,7 @@
 ||mallslazada.com^
 ||malnutritionbedroomtruly.com^
 ||malnutritionvisibilitybailiff.com^
+||malokgr.com^
 ||malowbowohefle.info^
 ||maltcontaining.com^
 ||malthaeurite.com^
@@ -71022,7 +71031,9 @@
 ||pixel-*.convertagain.net^
 ||pixel-*.rubiconproject.com^
 ||pixel-a.basis.net^
+||pixel-config.reddit.com^
 ||pixel-profile-cloud.eniro.com^
+||pixel-static.spotify.com^
 ||pixel-tracker.com^
 ||pixel.1und1.de^
 ||pixel.4pcdn.de^
@@ -71624,6 +71635,7 @@
 ||plumberwolves.com^
 ||plumbfullybeehive.com^
 ||plumbsplash.com^
+||plummychewer.com^
 ||plumpcontrol.pro^
 ||plumpdianafraud.com^
 ||plumpdisobeyastronomy.com^
@@ -73521,6 +73533,7 @@
 ||puffypurpose.com^
 ||pufqhd.rounz.com^
 ||pugdisguise.com^
+||pugmarktagua.com^
 ||pugsgivehugs.com^
 ||puhrzvjuzb.com^
 ||puhtml.com^
@@ -76877,6 +76890,7 @@
 ||ridleward.info^
 ||ridmilestone.com^
 ||ridmvd.dazzystore.com^
+||riemutmh.com^
 ||riffingwiener.com^
 ||rifflingo.com^
 ||rifjhukaqoh.com^
@@ -78194,6 +78208,7 @@
 ||s-eu-1.pushpushgo.com^
 ||s-iwantyou.com^
 ||s-lab.it^
+||s-logperf.vnexpress.net^
 ||s-manager.com^
 ||s-odx.oleads.com^
 ||s-omniture.yell.com^
@@ -91133,6 +91148,7 @@
 ||stnt.sky.de^
 ||stoachaigog.com^
 ||stoadivap.com^
+||stoaglauksargoo.xyz^
 ||stoagnejums.net^
 ||stoagouruzostee.net^
 ||stoaphalti.com^
@@ -92192,6 +92208,7 @@
 ||swad332.fun^
 ||swagtraffcom.com^
 ||swailcoigns.com^
+||swailssourer.com^
 ||swalessidi.com^
 ||swaljol72dgv.controlconceptsusa.com^
 ||swallow.axiom.co^
@@ -93374,6 +93391,7 @@
 ||tagroors.com^
 ||tagrpd.de^
 ||tagrua.xyz^
+||tagruglegni.net^
 ||tags.air1.com^
 ||tags.aljazeera.com^
 ||tags.aljazeera.net^
@@ -102185,6 +102203,7 @@
 ||ujappzvz.xyz^
 ||ujautifuleed.xyz^
 ||ujbhri.pharmamarket.nl^
+||ujimtyt.top^
 ||ujltba.mymhcommunity.com^
 ||ujlwwo.lehner-versand.ch^
 ||ujm.hansel.io^
@@ -102204,7 +102223,6 @@
 ||uk-marketing.roxtec.com^
 ||uk-mktg.vodafone.com^
 ||uk.adpinfo.com^
-||uk.bulkagetufas.com^
 ||uk.contact.alphabet.com^
 ||uk.partner.equifax.co.uk^
 ||uk.realestate.bnpparibas^
@@ -102276,6 +102294,7 @@
 ||ullnot.download^
 ||ulmoyc.com^
 ||ulnawoyyzbljc.ru^
+||ulog*.kwaipros.com^
 ||ulogin-stats.ru^
 ||ulogix.ru^
 ||ulogs.umeng.com^
@@ -104787,6 +104806,7 @@
 ||visitanalytics.userreport.com^
 ||visitcrispgrass.com^
 ||visitedquarrelsomemeant.com^
+||visiterpoints.com^
 ||visithaunting.com^
 ||visitingheedlessexamine.com^
 ||visitingpurrplight.com^
@@ -110065,6 +110085,7 @@
 ||xtyxcc.provitamin.hu^
 ||xu.chimerscoshing.com^
 ||xu27r.com^
+||xu6.icu^
 ||xuakn.icu^
 ||xuanlienquan.com^
 ||xuawdz.xn--b1aedqiqb.xn--p1ai^
