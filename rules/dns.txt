@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 112101
-! Update Time(UTC+8): 2024-12-11 00:32:26
+! Total count: 112115
+! Update Time(UTC+8): 2024-12-11 09:57:18
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -10078,6 +10078,7 @@
 ||altfafbih.com^
 ||altitude-arena.com^
 ||altitudeweetonsil.com^
+||altolsqy.com^
 ||altopd.com^
 ||altowriestwispy.com^
 ||altpool.pro^
@@ -10318,6 +10319,7 @@
 ||amuletcontext.com^
 ||amunfezanttor.com^
 ||amung.us^
+||amunlhntxou.com^
 ||amunx.de^
 ||amused-ground.com^
 ||amusedbucket.com^
@@ -20467,6 +20469,7 @@
 ||chambersthanweed.com^
 ||chameleostudios.com^
 ||champagne.futurecdn.net^
+||champerwatts.com^
 ||championads.midtc.com^
 ||championshipcoma.com^
 ||chamsockhachang.com^
@@ -22621,6 +22624,7 @@
 ||compare.meteoservice.ru^
 ||compareddiagram.com^
 ||comparedsilas.com^
+||comparepoisonous.com^
 ||compareproprietary.com^
 ||comparereaction.com^
 ||comparison.financeads.net^
@@ -37192,6 +37196,7 @@
 ||favoredkuwait.top^
 ||favorite-option.pro^
 ||favourablerecenthazardous.com^
+||fawhotoads.net^
 ||faxffjo.com^
 ||faxqaaawyb.com^
 ||fazanppq.com^
@@ -38091,6 +38096,7 @@
 ||fkeupa.bett1.de^
 ||fkglkpkgkduh.top^
 ||fkhxlz.xyz^
+||fkjdiefz.icu^
 ||fkjsjwbs.xyz^
 ||fklgndklbngg.com^
 ||fkllodaa.com^
@@ -39542,6 +39548,7 @@
 ||fxreferral.americanexpress.com^
 ||fxsdex.longvadon.com^
 ||fxshopeevip99.com^
+||fxsvifnkts.com^
 ||fxyoxe.99gafas.com^
 ||fy60.icu^
 ||fyber.com^
@@ -45192,6 +45199,7 @@
 ||hrenbjkdas.com^
 ||hrfdulynyo.xyz^
 ||hrfziiddxa.ru^
+||hrihfiocc.com^
 ||hrjctx.xyz^
 ||hrjdmo.rosettastone.co.uk^
 ||hrm.healthgrades.com^
@@ -49522,6 +49530,7 @@
 ||iwhzhi.packstyle.jp^
 ||iwl2d7pa4yx1.www.logology.co^
 ||iwlnpw.claudiepierlot.com^
+||iwmavidtg.com^
 ||iwmigu.xyz^
 ||iwmjsk.jw.com.au^
 ||iwouhoft.com^
@@ -56238,6 +56247,7 @@
 ||lv5hj.top^
 ||lv6od3a4sz12.www.logology.co^
 ||lv9qr0g0.xyz^
+||lvbaeugc.com^
 ||lvbdml.avantajosul.ro^
 ||lvdpyp.easy-gliss.com^
 ||lveodaz.icu^
@@ -77210,6 +77220,7 @@
 ||rofant.com^
 ||rofitstefukhatexc.com^
 ||rofmjd.xyz^
+||rofxiufqch.com^
 ||roger.aomg5bzv7.com^
 ||roguehideevening.com^
 ||rogueschedule.com^
@@ -89117,6 +89128,7 @@
 ||stadac.mobilapp.io^
 ||stadig.ifeng.com^
 ||staerlcmplks.xyz^
+||staffdisgustedducked.com^
 ||staffdollar.com^
 ||stage.aomg5bzv7.com^
 ||stageapplink.reki.tv^
@@ -102097,6 +102109,7 @@
 ||ufqzrk.espritshop.ch^
 ||ufsmcn.blackspade.com.tr^
 ||uftcfo.xyz^
+||ufvxiyewsyi.com^
 ||ufwsfi.magasins-u.com^
 ||ufz.doesxyz.com^
 ||ufzanvc.com^
@@ -105627,6 +105640,7 @@
 ||vupsnx.xyz^
 ||vupteerairs.net^
 ||vupulse.com^
+||vuqcteyi.com^
 ||vuqgzz.fiftyoutlet.com^
 ||vuqufo.uno^
 ||vurshz.gregory.jp^
