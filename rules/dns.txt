@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 112115
-! Update Time(UTC+8): 2024-12-11 09:57:18
+! Total count: 112118
+! Update Time(UTC+8): 2024-12-11 16:32:51
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -67018,6 +67018,7 @@
 ||oj.lesbianbliss.com^
 ||oj2q8.montecarlosbm.book-secure.com^
 ||ojapanelm.xyz^
+||ojimtyk.top^
 ||ojixrv.recordrentacar.com^
 ||ojkduzbm.com^
 ||ojlsxt.pigment.co.kr^
@@ -101342,6 +101343,7 @@
 ||ttb9.shop^
 ||ttbm.com^
 ||ttdpxh.xyz^
+||tteferty33.fun^
 ||tteikk.saintmaniero.com^
 ||ttfpil.2dehands.be^
 ||ttfqcx.catfootwear.com^
@@ -109213,6 +109215,7 @@
 ||x2y22.fun^
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
+||x4d.icu^
 ||x4pollyxxpush.com^
 ||x4q4g2zy7.com^
 ||x5.jougennotuki.com^
