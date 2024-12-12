@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 112158
-! Update Time(UTC+8): 2024-12-12 09:57:10
+! Total count: 112160
+! Update Time(UTC+8): 2024-12-12 16:32:13
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -16880,6 +16880,7 @@
 ||bjeehz.accademiadellusso.com^
 ||bjfbac.hyundaivaudreuil.com^
 ||bjhhbox.xyz^
+||bjimtyv.top^
 ||bjiuck.com^
 ||bjjabc.com^
 ||bjjkuoxidr.xyz^
@@ -36249,7 +36250,6 @@
 ||events.shareably.net^
 ||events.sk.ht^
 ||events.splash-screen.net^
-||events.split.io^
 ||events.squarespace.com^
 ||events.storifyme.com^
 ||events.swiftlycontent.net^
@@ -48330,6 +48330,7 @@
 ||ingamesads.gameloft.com^
 ||ingenioustech.biz^
 ||ingest-data-afra.snappfood.dev^
+||ingest.analytics.nation.dev^
 ||ingest.coincodex.com^
 ||ingest.make.rvapps.io^
 ||ingest.make.rvohealth.com^
@@ -89866,6 +89867,7 @@
 ||stats.albert-kropp-gmbh.de^
 ||stats.alfalaval.com^
 ||stats.alibhai.co^
+||stats.allabolag.se^
 ||stats.alleaktien.de^
 ||stats.allenai.org^
 ||stats.alocreativa.com^
