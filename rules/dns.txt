@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
 ! Total count: 112158
-! Update Time(UTC+8): 2024-12-12 00:32:03
+! Update Time(UTC+8): 2024-12-12 09:57:10
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -2040,6 +2040,7 @@
 ||6247.bestinterestings.com^
 ||6279.seponews.com^
 ||629de87520.f983cf2155.com^
+||62a77005fb.com^
 ||62ca04e27a.com^
 ||62zd0.icu^
 ||63-217-112-145.static.pccwglobal.net.iberostar.com^
@@ -18992,7 +18993,6 @@
 ||c917ed5198.com^
 ||c950.chronicle.com^
 ||c96ee2ee55.e1fdc63869.com^
-||c993.westport-news.com^
 ||c9emgwai66zi.com^
 ||c9l.xyz^
 ||c9qh3.website^
@@ -33236,7 +33236,6 @@
 ||e5asyhilodice.com^
 ||e5obq1v261.www.lurkit.com^
 ||e5yx.com^
-||e642.midlanddailynews.com^
 ||e6644fec96.7b98c550d1.com^
 ||e67repidwnfu7gcha.com^
 ||e6wwd.top^
@@ -36878,7 +36877,6 @@
 ||f83d8a9867.com^
 ||f84.aliviofacil.com^
 ||f84add7c62.com^
-||f857.hearstmediatx.com^
 ||f860ddd061.6bc1f4d014.com^
 ||f8b536a2e6.com^
 ||f8be4be498.com^
@@ -39642,8 +39640,6 @@
 ||g0-g3t-som3.com^
 ||g0-get-msg.net^
 ||g0-get-s0me.net^
-||g010.comicskingdom.com^
-||g086.puzzmo.com^
 ||g0fc3.com^
 ||g0gr67p.de^
 ||g0wow.net^
@@ -45738,7 +45734,6 @@
 ||i472x.fun^
 ||i4nstr1gm.com^
 ||i4rsrcj6.top^
-||i595.jacksonvillejournalcourier.com^
 ||i5ixiwch2f.themakersmob.com^
 ||i65wsmrj5.com^
 ||i7ece0xrg4nx.com^
@@ -49649,7 +49644,6 @@
 ||j.northbeam.io^
 ||j.uralweb.ru^
 ||j1.piaobing.com^
-||j158.hearstmediact.com^
 ||j178.wmur.com^
 ||j198.registercitizen.com^
 ||j1oxqq05ry.ru^
@@ -52559,6 +52553,7 @@
 ||lamprey.carolcassar.com^
 ||lamprey.seagyndavis.com^
 ||lampshademirror.com^
+||lamrissmyol.com^
 ||lamthong.net^
 ||lan.landing.ni.com^
 ||lanapengar.expressen.se^
@@ -54677,6 +54672,7 @@
 ||ljbrbz.xyz^
 ||ljdofz.xyz^
 ||ljhbhy.cn^
+||ljimtyl.top^
 ||ljjskttqximu.in^
 ||ljjyqv.gametrade.jp^
 ||ljlvftvryjowdm.xyz^
@@ -56700,6 +56696,7 @@
 ||madeupdependant.com^
 ||madlik.info^
 ||madlyexcavate.com^
+||madlysuccessful.com^
 ||madmen2.alastonsuomi.com^
 ||madnessindians.com^
 ||madnessnumbersantiquity.com^
@@ -62870,12 +62867,14 @@
 ||mon*-misc-lf.fqnovel.com^
 ||mon*-platform-*.tiktokv.com^
 ||mon-*.tiktokv.com^
+||mon-boot.capcutapi.com^
 ||mon-deu-1.inf.nimiq.net^
 ||mon-deu-2.inf.nimiq.net^
 ||mon-deu-3.inf.nimiq.net^
 ||mon-fra-1.inf.nimiq.net^
 ||mon-fra-2.inf.nimiq.net^
 ||mon-gbr-1.inf.nimiq.net^
+||mon-va-us-looki.capcutapi.com^
 ||mon-va.byteoversea.com^
 ||mon.byteoversea.com^
 ||mon.domdog.io^
@@ -64769,6 +64768,7 @@
 ||neitherpennylack.com^
 ||nejqon.selectizm.com^
 ||nekgtz.bluestoneperennials.com^
+||neldatsy.com^
 ||nelhon.com^
 ||nellads.com^
 ||nellmeeten.com^
@@ -68858,7 +68858,6 @@
 ||p1.danskebank.ie^
 ||p1.qxzsw.com^
 ||p1.zhongyoo.com^
-||p116.thetelegraph.com^
 ||p16-ad.byteoversea.com^
 ||p16-tiktokcdn-com.akamaized.net.iberostar.com^
 ||p1corn.com^
@@ -72850,6 +72849,7 @@
 ||professtrespass.com^
 ||proffering.xyz^
 ||profi-link.org^
+||profile-api.amplitude.com^
 ||profile-update.healthgrades.com^
 ||profile.marketone.com^
 ||profiler-collector.wshareit.com^
@@ -73084,6 +73084,7 @@
 ||protectsubrev.com^
 ||protectyourdevices.com^
 ||proteinfrivolousfertilised.com^
+||proteininnovationpioneer.com^
 ||protestcopy.com^
 ||protestgrove.com^
 ||protizer.ru^
@@ -74821,6 +74822,7 @@
 ||qutejo.xyz^
 ||qutsgp.calif.cc^
 ||quwkke.xyz^
+||quwsncrlcwjpj.com^
 ||quxsiraqxla.com^
 ||quxwpwcwmmx.xyz^
 ||quydautuvingroup.com^
@@ -75447,6 +75449,7 @@
 ||rdtk.rabbitsreviews.com^
 ||rdtk.scalemyclinic.com.au^
 ||rdtk.troma-now.com^
+||rdtlnutu.com^
 ||rdtracer.com^
 ||rdtrck2.com^
 ||rdtrk.affiliatebooster.com^
@@ -78607,7 +78610,6 @@
 ||s7ven.com^
 ||s8.aomg5bzv7.com^
 ||s811.ketv.com^
-||s860.greenstate.com^
 ||s861531437.sc.origins.en25.com^
 ||s99i.org^
 ||sa.adidas.ae^
@@ -95462,6 +95464,7 @@
 ||tiktakz.xyz^
 ||tiktikshopvn.com^
 ||tiktok-ads.hara.vn^
+||tiktok.tray.com.br^
 ||tiktokcy1.com^
 ||tilanalytics.timesinternet.in^
 ||tilesmuzarab.com^
@@ -103432,7 +103435,6 @@
 ||v34s6r.com^
 ||v4dwkcv.com^
 ||v6rxv5coo5.com^
-||v706.hearstnp.com^
 ||v785.online^
 ||v812.lakecountystar.com^
 ||v90327ux.beget.tech^
@@ -105828,7 +105830,6 @@
 ||w0079.com^
 ||w0082.com^
 ||w00tmedia.net^
-||w020.newmilfordspectrum.com^
 ||w0we.com^
 ||w11.zhongkaohelp.com^
 ||w110.kcra.com^
@@ -110349,7 +110350,6 @@
 ||y341i.xyz^
 ||y494.wdsu.com^
 ||y4e04gql5o1b.www.nookgaming.com^
-||y653.theridgefieldpress.com^
 ||y66xvgo5i.chuimg.com^
 ||y6zqw.boyspornpics.com^
 ||y738.nhregister.com^
@@ -111010,6 +111010,7 @@
 ||yqksxb.nicebeauty.se^
 ||yqlxkzs.cn^
 ||yqlxwb.icu^
+||yqlzccxn.icu^
 ||yqmxfz.com^
 ||yqorwz.weisshaus.at^
 ||yqpzcf.thekoinclub.com^
@@ -111312,7 +111313,6 @@
 ||z3zex.icu^
 ||z492.ctinsider.com^
 ||z54a.xyz^
-||z590.fairfieldcitizenonline.com^
 ||z5x.net^
 ||z680.beaumontenterprise.com^
 ||z737.thestar.com^
