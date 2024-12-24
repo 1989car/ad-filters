@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 111265
-! Update Time(UTC+8): 2024-12-24 00:29:05
+! Total count: 111308
+! Update Time(UTC+8): 2024-12-24 09:47:34
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -9469,6 +9469,7 @@
 ||aiwanma99.com^
 ||aiwen.cc^
 ||aiwlxmy.com^
+||aiwutgxp.love^
 ||aixcdn.com^
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||aizhantj.com^
@@ -13358,6 +13359,7 @@
 ||arrqumzr.com^
 ||arsaqf.yukoyuko.net^
 ||arsfoundhert.info^
+||arsfoundhertobe.com^
 ||arshelmeton.com^
 ||arsoniststuffed.com^
 ||arswabluchan.com^
@@ -13604,6 +13606,7 @@
 ||askfollow.us^
 ||askfuelads.com^
 ||askingsitting.com^
+||asklfnmoqwe.xyz^
 ||asklinklanger.com^
 ||asklots.com^
 ||askprivate.com^
@@ -15933,6 +15936,7 @@
 ||beemolgator.com^
 ||beemrdwn.com^
 ||beencounter.com^
+||beenedsl.com^
 ||beenoper.com^
 ||beeperdecisivecommunication.com^
 ||beepoven.com^
@@ -16626,6 +16630,7 @@
 ||binlayer.de^
 ||binoads.ir^
 ||binocule21c.merriam-webster.com^
+||binomlink.com^
 ||binomnet.com^
 ||binomnet3.com^
 ||binomtrcks.site^
@@ -18257,6 +18262,7 @@
 ||bujlmitd.icu^
 ||bujltw.multimax.net^
 ||bukshiunchair.shop^
+||bukzvsflpo.com^
 ||bulbbait.com^
 ||bulbofficial.com^
 ||bulbousloth.shop^
@@ -19585,6 +19591,7 @@
 ||cd57296e.xyz^
 ||cd7211716b.935eadb976.com^
 ||cd828.com^
+||cda7k-ddok.com^
 ||cdanjoyner4374.myre.io^
 ||cdazjxso.xyz^
 ||cdbqmlngkmwkpvo.xyz^
@@ -19674,7 +19681,6 @@
 ||cdn.arcstudiopro.com^
 ||cdn.asdfix.com^
 ||cdn.asdnow.xyz^
-||cdn.asklfnmoqwe.xyz^
 ||cdn.b2.ai^
 ||cdn.batmobi.net^
 ||cdn.bescore.com^
@@ -20171,6 +20177,7 @@
 ||cetxouafsctgf.com^
 ||ceuswatcab01.blob.core.windows.net^
 ||ceuswatcab02.blob.core.windows.net^
+||ceveq.click^
 ||cevmlj.fcorgp.com^
 ||cevocoxuhu.com^
 ||cewegncr.com^
@@ -21594,6 +21601,7 @@
 ||cloud.webtrack.online^
 ||cloud25.xyz^
 ||cloud27.xyz^
+||cloudad.icu^
 ||cloudads-a.akamaihd.net^
 ||cloudads.tv^
 ||cloudbit.rocks^
@@ -22428,6 +22436,7 @@
 ||company-target.com^
 ||companyparcel.com^
 ||comparativeexclusion.com^
+||comparativelyoccursdeclaration.com^
 ||compare.easyviaggio.com^
 ||compare.easyviajar.com^
 ||compare.meteoservice.ru^
@@ -22465,6 +22474,7 @@
 ||complete-afternoon.pro^
 ||complete.smilecbd.jp^
 ||completecabbage.com^
+||complexastare.shop^
 ||complextoad.com^
 ||compliance.coniferhealth.com^
 ||compliance.govdocs.com^
@@ -22484,6 +22494,7 @@
 ||comprehensive3x.fun^
 ||comprehensiveunconsciousblast.com^
 ||compresssavvydetected.com^
+||compriseinflammable.com^
 ||compromiseadaptedspecialty.com^
 ||compteur-fr.com^
 ||compteur-gratuit.org^
@@ -24749,6 +24760,7 @@
 ||cyeabs.luxyhair.com^
 ||cyeqeewyr.com^
 ||cyf9.destinia.cl^
+||cyg-byzlgtns.world^
 ||cygnus.com^
 ||cyjqgpf.top^
 ||cylnkee.com^
@@ -25448,6 +25460,7 @@
 ||d2izcn32j62dtp.cloudfront.net^
 ||d2j042cj1421wi.cloudfront.net^
 ||d2j1fszo1axgmp.cloudfront.net^
+||d2j45sh7zpklsw.cloudfront.net^
 ||d2j71mqxljhlck.cloudfront.net^
 ||d2j74sjmqqyf26.cloudfront.net^
 ||d2jgbcah46jjed.cloudfront.net^
@@ -35161,6 +35174,7 @@
 ||erafterabigyellow.info^
 ||eramass.com^
 ||erandex.com^
+||eraptbiyoyj.com^
 ||erate.co.il^
 ||eraudseen.xyz^
 ||eravesofefineg.info^
@@ -37327,6 +37341,7 @@
 ||fibrefilamentherself.com^
 ||fibrehighness.com^
 ||fibrilono.top^
+||fibrosecormus.shop^
 ||ficinhubcap.com^
 ||fickle-brush.com^
 ||fickleclinic.com^
@@ -39907,6 +39922,7 @@
 ||germaniavid.com^
 ||germanize24.fun^
 ||germany.aomg5bzv7.com^
+||germinatewishesholder.com^
 ||germmasonportfolio.com^
 ||gersutsaix.net^
 ||geruksom.net^
@@ -45000,6 +45016,7 @@
 ||huoxun.wang^
 ||huqbeiy.com^
 ||huqkbq.misterrunning.com^
+||hurdlesomehowpause.com^
 ||huresdu.top^
 ||hurkarubypaths.com^
 ||hurlaxiscame.com^
@@ -48511,6 +48528,7 @@
 ||ioniamcurr.info^
 ||ionigravida.com^
 ||ioniserpinones.com^
+||ioniseryeaoman.shop^
 ||ionismscoldn.info^
 ||ionistkhaya.website^
 ||iononetravoy.com^
@@ -67733,6 +67751,7 @@
 ||osusjsga.com^
 ||osuwzo.oyunfor.com^
 ||osvdtm.theshopyohjiyamamoto.jp^
+||oswapjmzeacv.com^
 ||oswowg.xyz^
 ||osyliek.top^
 ||osyqldvshkc.xyz^
@@ -76305,6 +76324,7 @@
 ||riaoz.xyz^
 ||riastats.com^
 ||riazrk-oba.online^
+||ribougrauchoum.net^
 ||ribqpiocnzc.com^
 ||ribsaiji.com^
 ||ribsegment.com^
@@ -77433,6 +77453,7 @@
 ||runingamgladt.com^
 ||runklessubact.top^
 ||runmixed.com^
+||runnerbesiegerelative.com^
 ||runningdestructioncleanliness.com^
 ||runnzk.pch-shop.de^
 ||runoj.click^
@@ -78409,6 +78430,7 @@
 ||sakura.goguardian.com^
 ||sal.isanook.com^
 ||sal.milanoo.com^
+||salaammangos.shop^
 ||salalromansh.com^
 ||salamaleyum.com^
 ||salamander.augmentedmind.io^
@@ -78806,8 +78828,12 @@
 ||sasisa.ru^
 ||sassaglertoulti.xyz^
 ||sasseselytra.com^
+||sat.cellordion3.net^
+||sat.dipamaid.net^
+||sat.fevilsor5.net^
 ||sat.sanoma.fi^
 ||sat.soluall.net^
+||sat.terithrow2.net^
 ||satarget.csu.edu.au^
 ||satarget.npubank.com.au^
 ||satarget.southaustralia.com^
@@ -80045,6 +80071,7 @@
 ||securedigital.pru.mandg.com^
 ||securedigital.prudential.co.uk^
 ||securedigital.wealth.mandg.com^
+||securedt-sm.com^
 ||securedvisit.com^
 ||securee.ru^
 ||securefamilylink.wireless.att.com^
@@ -81243,6 +81270,7 @@
 ||shiiticprating.com^
 ||shiiuojjccp.com^
 ||shikroux.net^
+||shiksinsagoa.net^
 ||shili.downxia.com^
 ||shili.wanyx.com^
 ||shilian168.cn^
@@ -86460,6 +86488,7 @@
 ||softenedcollar.com^
 ||softenedimmortalityprocedure.com^
 ||softentears.com^
+||softiesnoetic.shop^
 ||softonic-analytics.net^
 ||softonicads.com^
 ||softpopads.com^
@@ -87209,6 +87238,7 @@
 ||specialtysanitaryinaccessible.com^
 ||specialworse.com^
 ||speciespresident.com^
+||specificallycries.com^
 ||specificallythesisballot.com^
 ||specificmedia.com^
 ||specificunfortunatelyultimately.com^
@@ -90368,6 +90398,7 @@
 ||stereos2.crutchfield.com^
 ||stereos2s.crutchfield.ca^
 ||stereos2s.crutchfield.com^
+||stereospoutfireextinguisher.com^
 ||stereosuspension.com^
 ||stereotypedclub.com^
 ||stereotypedsugar.com^
@@ -93959,6 +93990,7 @@
 ||tetquatang.vn^
 ||tetrdracausa.com^
 ||tetrylscullion.com^
+||tetyerecently.com^
 ||teuxbfnru.com^
 ||tevjso.konesso.pl^
 ||tevzas.autoscout24.fr^
@@ -95607,6 +95639,7 @@
 ||tosuicunea.com^
 ||totalab.xyz^
 ||totalcoolblog.com^
+||totaldrag.pro^
 ||totalfreshwords.com^
 ||totallyplaiceaxis.com^
 ||totalmedia2.ynet.co.il^
@@ -97805,6 +97838,7 @@
 ||trackbuyers.likeableagent.com^
 ||trackcaddie.com^
 ||trackcdn.com^
+||trackcherry.com^
 ||trackclicks.info^
 ||trackclicksplz.site^
 ||trackcommon.hujiang.com^
@@ -99545,6 +99579,7 @@
 ||trenpyle.com^
 ||trentjesno.com^
 ||tres8.info^
+||treschevinose.shop^
 ||trespassapologies.com^
 ||tretmumbel.com^
 ||trewnhiok.com^
@@ -101302,7 +101337,6 @@
 ||ucjevgue.xyz^
 ||uckgqa.xyz^
 ||uclgnz.lunabazaar.com^
-||uclo.net^
 ||ucmahi.lectiva.com^
 ||ucmetrics.hypovereinsbank.de^
 ||ucmetrics.unicredit.it^
@@ -101488,6 +101522,7 @@
 ||ui8l2.xyz^
 ||uiakq.top^
 ||uiatkc.xyz^
+||uibhnejm.com^
 ||uicdns.xyz^
 ||uicjnk.gumtree.co.za^
 ||uid.mediacorp.sg^
@@ -101987,6 +102022,7 @@
 ||unusedstone.com^
 ||unusualbrainlessshotgun.com^
 ||unusuallynonfictionconsumption.com^
+||unusuallypilgrim.com^
 ||unusuallyswam.com^
 ||unusualtitle.com^
 ||unusualwarmingloner.com^
@@ -102234,6 +102270,7 @@
 ||urmilan.info^
 ||urocyoncabrit.top^
 ||urodakt.com^
+||uropygiubussu.top^
 ||uroqgj.wind.it^
 ||urpkktc.icu^
 ||urr.kumamoto-food.com^
@@ -106641,6 +106678,7 @@
 ||winori.xyz^
 ||winpbn.com^
 ||winr.online^
+||winsaijoacoo.net^
 ||winsbank.io^
 ||winsimpleprizes.life^
 ||winslinks.com^
@@ -106731,6 +106769,7 @@
 ||wjrtsc.apt2b.com^
 ||wjssvg.descentekorea.co.kr^
 ||wjtekf.vidaxl.bg^
+||wjtzvvdqvfjd.com^
 ||wjvavwjyaso.com^
 ||wjwjha.medical-labo.com^
 ||wjwod.cyou^
@@ -110233,6 +110272,7 @@
 ||yukpxxp.com^
 ||yulunanews.name^
 ||yumenetworks.com^
+||yummyadvertiseexploded.com^
 ||yummycdn.com^
 ||yummylink.funcapital.com^
 ||yumuhw.cotepro.fr^
@@ -110464,6 +110504,7 @@
 ||zagvee.com^
 ||zagyjnn.cn^
 ||zahlen.olereissmann.de^
+||zaibeevaimi.net^
 ||zaicistafaish.xyz^
 ||zaigaphy.net^
 ||zaihxti.com^
@@ -110651,6 +110692,7 @@
 ||zeroshop.cc^
 ||zerostats.com^
 ||zeryt111.fun^
+||zerzvqroevwmb.top^
 ||zesep.com^
 ||zesgky.belambra.fr^
 ||zestpocosin.com^
@@ -110815,6 +110857,7 @@
 ||zizoxozoox.com^
 ||zizulw.org^
 ||zjbfke.centerparcs.be^
+||zjd-nmdong.xyz^
 ||zjdac.com^
 ||zjejua.portmans.com.au^
 ||zjemch.ru^
