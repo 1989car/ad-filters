@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 111308
-! Update Time(UTC+8): 2024-12-24 09:47:34
+! Total count: 111314
+! Update Time(UTC+8): 2024-12-24 16:29:02
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -10010,6 +10010,7 @@
 ||altastat.com^
 ||altavista.ovh^
 ||altcoin.care^
+||altema-log.com^
 ||altenlayer.com^
 ||alterassumeaggravate.com^
 ||alterhimdecorate.com^
@@ -21505,6 +21506,7 @@
 ||clksite.com^
 ||clkslvmiwadfsx.xyz^
 ||clkstat.china.cn^
+||clktds.org^
 ||clkwnl.xyz^
 ||cll.start.acahealthpros.com^
 ||cllctr.any.run^
@@ -29538,7 +29540,6 @@
 ||dberthformttete.com^
 ||dbex-tracker-v2.driveback.ru^
 ||dbfocus.jp^
-||dbfukofby5ycr.cloudfront.net^
 ||dbfv8ylr8ykfg.cloudfront.net^
 ||dbh1.milb.com^
 ||dbh2.milb.com^
@@ -32245,6 +32246,7 @@
 ||drinksbookcaseconsensus.com^
 ||dripappliance.com^
 ||dripe.site^
+||drivago.top^
 ||drive.carpoollogistics.com^
 ||drive.seagate.com^
 ||drive.waitrapp.com^
@@ -50517,6 +50519,7 @@
 ||k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com^
 ||k8trangphim.com^
 ||k9gj.site^
+||k9u.icu^
 ||kaacsi.belvilla.nl^
 ||kaan.kakao.com^
 ||kaascypher.com^
@@ -77850,6 +77853,7 @@
 ||s.orangeville.com^
 ||s.ourwindsor.ca^
 ||s.parrysound.com^
+||s.pie.org^
 ||s.pixsrvcs.com^
 ||s.playa.to^
 ||s.porndub.us^
@@ -94082,6 +94086,7 @@
 ||tgg.top-casinos-list.com^
 ||tgg.videogamesea.com^
 ||tgg.you-win-lucky-games.com^
+||tghrfv.icu^
 ||tgidskii.top^
 ||tgirgs.flinders.nl^
 ||tgknt.com^
@@ -107475,6 +107480,7 @@
 ||wwhnjrg.com^
 ||wwhsxwow.xyz^
 ||wwija.com^
+||wwilmie.top^
 ||wwjdxc.pixartprinting.it^
 ||wwjnoafuexamtg.com^
 ||wwjtdjj.cn^
