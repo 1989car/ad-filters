@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 114232
-! Update Time(UTC+8): 2025-01-01 16:29:03
+! Total count: 114251
+! Update Time(UTC+8): 2025-01-02 00:27:32
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -5176,6 +5176,7 @@
 ||ablen12.tk^
 ||ablenctionalle.info^
 ||ablestsigma.click^
+||abletopreseyna.com^
 ||ablida-rotation.com^
 ||ablida.net^
 ||ablink.1954.bk.com^
@@ -16213,6 +16214,7 @@
 ||beneficios.davivienda.sv^
 ||benefits.aon.com^
 ||benefits.sovendus.com^
+||benefitssheasha.com^
 ||benelux2.secureforms.mcafee.com^
 ||benengagewriggle.com^
 ||benevolencepair.com^
@@ -24222,6 +24224,7 @@
 ||crfjxfoe.xyz^
 ||crfuxo.foeth.com^
 ||cribbewildered.com^
+||cridotty.com^
 ||criesstarch.com^
 ||crigroik.com^
 ||crimblepitbird.shop^
@@ -39511,6 +39514,7 @@
 ||fxmdjr.yogajournal.jp^
 ||fxmkij.jny.com^
 ||fxmnba.com^
+||fxmvxhwcusaq.com^
 ||fxnmjb.xyz^
 ||fxnow.ru^
 ||fxnygu.puzzlewarehouse.com^
@@ -49832,6 +49836,7 @@
 ||iymcrv.banilaco.com^
 ||iymvdq.cosmeticos24h.com^
 ||iyogo.shop^
+||iyoztgdrxbcs.com^
 ||iyqaosd.com^
 ||iystorage.com^
 ||iystrbftlwif.icu^
@@ -52367,6 +52372,7 @@
 ||kvfpmc.master1.pl^
 ||kvfumh.fairwaystyles.com^
 ||kvfunf.factorydirect.ca^
+||kvgbtozgcmox.com^
 ||kvhee.com^
 ||kvhtsvy.xyz^
 ||kvidcq.com^
@@ -56486,6 +56492,7 @@
 ||loon.davidalindahl.com^
 ||loon.energizer.asia^
 ||loon.jrmyfranck.com^
+||looodrxopzvi.com^
 ||loooutlet.com^
 ||loop.bengali-sex-video.com^
 ||loopaautomate.com^
@@ -56646,6 +56653,7 @@
 ||lozeecalreek.com^
 ||lozjnq.stateandliberty.com^
 ||lozmtk.cn^
+||lozna.xyz^
 ||lp-eq.mitsuichemicals.com^
 ||lp-preview.net^
 ||lp-unsubscribe-anhanguera.relacionamento.anhanguera.com^
@@ -69175,6 +69183,7 @@
 ||opx.webtool.net^
 ||opximages.webtool.net^
 ||oqaejin.icu^
+||oqbaxgolrabl.com^
 ||oqbbkv.promosejours.com^
 ||oqbimz.aviasales.ru^
 ||oqddkgixmqhovv.xyz^
@@ -77727,6 +77736,7 @@
 ||responsesite.dsm-firmenich.com^
 ||responsetap.com^
 ||responsibleprohibition.com^
+||responsibleroyalscrap.com^
 ||responsiveproportion.com^
 ||responsiverender.com^
 ||ressources.annoncesbateau.com^
@@ -77954,6 +77964,7 @@
 ||rfinidtirz.com^
 ||rfity.com^
 ||rfjrih.skinceuticals.com^
+||rfjuoqrbnknop.com^
 ||rfk.biglots.com^
 ||rflbhv.3ple.jp^
 ||rfmfrg.yamap.com^
@@ -80954,6 +80965,7 @@
 ||scissorsstitchdegrade.com^
 ||scissorwailed.com^
 ||scjlpq.navitime.co.jp^
+||sckjzfahoizclt.com^
 ||sckxod.apostrophes.kr^
 ||sckyf.com^
 ||scl6gc5l.site^
@@ -83818,6 +83830,7 @@
 ||shotyfy.com^
 ||shoubsee.net^
 ||shouji.sougou.com^
+||shoulderadmonishstore.com^
 ||shouldercommandmentlimitless.com^
 ||shouldmeditate.com^
 ||shouldscornful.com^
@@ -88347,6 +88360,7 @@
 ||snhcnjjxrlqkml.com^
 ||snhtvtp.com^
 ||sni.ps^
+||snidestpaluli.shop^
 ||snifdlab.top^
 ||sniffer.nitro-production.otto.boreus.de^
 ||sniffer.nitro-test-extern.otto.boreus.de^
@@ -96098,6 +96112,7 @@
 ||tck.photobox.com^
 ||tck.wonderbox.fr^
 ||tckn-code.com^
+||tclimii.top^
 ||tcloaksandtheirclean.com^
 ||tcmdjt.grimmschool.com^
 ||tcmexz.castorama.pl^
@@ -96436,7 +96451,6 @@
 ||telem.sre.gopuff.com^
 ||telemetric.dk^
 ||telemetrics.klaviyo.com^
-||telemetry*.api.playstation.com^
 ||telemetry*.transcend.io^
 ||telemetry-cii.api.playstation.com^
 ||telemetry-console.api.playstation.com^
@@ -103819,6 +103833,7 @@
 ||twhkzm.getstact.com^
 ||twi-hjritecl.world^
 ||twiago.com^
+||twiebayed.com^
 ||twigwisp.com^
 ||twilightsuburbmill.com^
 ||twilmii.top^
@@ -104432,6 +104447,7 @@
 ||uk.partner.equifax.co.uk^
 ||uk.realestate.bnpparibas^
 ||uk.verintsystemsinc.com^
+||uk0.icu^
 ||uk08i.top^
 ||ukankingwithea.com^
 ||ukaxwr.leastedisoha.com^
@@ -112554,6 +112570,7 @@
 ||ydbcct.nikigolf.jp^
 ||ydbeuq.superpharm.pl^
 ||ydccky.direnc.net^
+||ydccmwrpnfy.com^
 ||ydcksa.certideal.com^
 ||ydcpcm.ninelineapparel.com^
 ||yddbysa.xyz^
@@ -113913,6 +113930,7 @@
 ||zograughoa.net^
 ||zogrepsili.com^
 ||zoiajw.yves-rocher.cz^
+||zoiefwqhcaczun.com^
 ||zojyob.icu^
 ||zokaukree.net^
 ||zokrodes.com^
@@ -113978,6 +113996,7 @@
 ||zpcode11.com^
 ||zpfwfd.freiburger-jobanzeiger.de^
 ||zpgetworker11.com^
+||zpilkesyasa.com^
 ||zpipacuz-lfa.vip^
 ||zpjojd.roucha.com^
 ||zplayer-trk.zdn.vn^
