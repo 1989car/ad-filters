@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 114251
-! Update Time(UTC+8): 2025-01-02 00:27:32
+! Total count: 114255
+! Update Time(UTC+8): 2025-01-02 09:46:51
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -5975,6 +5975,7 @@
 ||ad-serverparc.nl^
 ||ad-service.shop^
 ||ad-serving.de^
+||ad-shield.cc^
 ||ad-spire.net^
 ||ad-splash-tracking.hktvmall.com^
 ||ad-splash.hktvmall.com^
@@ -56972,6 +56973,7 @@
 ||lqcngjecijy.rocks^
 ||lqdeyv.thepopcornfactory.com^
 ||lqklml.amikado.com^
+||lqlwjr.icu^
 ||lqopyc.beermachines.ru^
 ||lqpvvd.naadam.co^
 ||lqpzdi.coppel.com^
@@ -71576,6 +71578,7 @@
 ||perkirp213.sosqboh85.com^
 ||perksyringefiring.com^
 ||perkyjade.com^
+||perlika.com^
 ||permanentadvertisebytes.com^
 ||permanentlymission.com^
 ||permato.com^
@@ -75415,6 +75418,7 @@
 ||qgxbluhsgad.com^
 ||qgymtv.motomax.com.tr^
 ||qhapoq.xyz^
+||qhatarsl.com^
 ||qhdhtd.com^
 ||qhdtlgthqqovcw.xyz^
 ||qhemphox.com^
