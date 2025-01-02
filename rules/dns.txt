@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 114255
-! Update Time(UTC+8): 2025-01-02 09:46:51
+! Total count: 114257
+! Update Time(UTC+8): 2025-01-02 16:28:35
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -818,6 +818,7 @@
 ||1ts17.top^
 ||1ts18.top^
 ||1ts19.top^
+||1tv.icu^
 ||1vsbt.4puuqeh41.com^
 ||1vwsbt.4puuqeh41.com^
 ||1vyt1eguj27.ommasign.com^
@@ -52747,7 +52748,6 @@
 ||lalapush.com^
 ||lalokdocwl.com^
 ||lalqoc.lyke.hu^
-||laluvygy.com^
 ||lambangcap3giare.net^
 ||lambdafoobar.de^
 ||lambingsyddir.com^
@@ -68258,6 +68258,7 @@
 ||okmwfq.xyz^
 ||oko.net^
 ||okoshechka.net^
+||okpp01021.xyz^
 ||okpp12311.xyz^
 ||okqqix.karitoke.jp^
 ||okrasbj6.de^
@@ -73446,6 +73447,7 @@
 ||pptnuhffs.love^
 ||ppvmhhpxuomjwo.xyz^
 ||ppvtnb.contakt.ro^
+||ppxndfgf.icu^
 ||ppxtsn.styleonme.com^
 ||ppyflc.uniformnext.com^
 ||pq-mzfusgpzt.xyz^
@@ -94375,7 +94377,6 @@
 ||syndication.trafficreps.com^
 ||syndication.whibd.com^
 ||syndication.whibp.com^
-||syndopop.com^
 ||syndromeentered.com^
 ||syndromegarlic.com^
 ||synergy-e.com^
@@ -103495,7 +103496,6 @@
 ||tswafl.lascana.nl^
 ||tsy-jnugwavj.love^
 ||tsyndicate.com^
-||tsyndolls.com^
 ||tszoxhtk.xyz^
 ||tt.biquge.la^
 ||tt.flowntw.com^
@@ -104214,6 +104214,7 @@
 ||ucjevgue.xyz^
 ||uckgqa.xyz^
 ||uclgnz.lunabazaar.com^
+||uclimit.top^
 ||ucmahi.lectiva.com^
 ||ucmetrics.hypovereinsbank.de^
 ||ucmetrics.unicredit.it^
@@ -112378,6 +112379,7 @@
 ||xxsmad2.com^
 ||xxsmad3.com^
 ||xxsmad4.com^
+||xxss6677.com^
 ||xxvsfh.mistertennis.com^
 ||xxx-babes.org^
 ||xxx.sdtraff.com^
