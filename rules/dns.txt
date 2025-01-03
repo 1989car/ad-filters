@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 113877
-! Update Time(UTC+8): 2025-01-03 09:47:46
+! Total count: 113883
+! Update Time(UTC+8): 2025-01-03 16:28:39
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -45945,6 +45945,7 @@
 ||ibugreeza.com^
 ||ibutheptesitrew.com^
 ||ibwhtu.hfbrazil.com.br^
+||ibyrwvi.cn^
 ||ic-live.com^
 ||icalnormaticalacyc.info^
 ||icare.quantum-health.com^
@@ -52917,6 +52918,7 @@
 ||lcfooiqhro.com^
 ||lciapi.ninthdecimal.com^
 ||lcjubw.fiksuruoka.fi^
+||lclimil.top^
 ||lcloperoxeo.xyz^
 ||lcmbppikwtxujc.xyz^
 ||lcmed0.verdantpathfinder.com^
@@ -68042,6 +68044,7 @@
 ||okoshechka.net^
 ||okpp01021.xyz^
 ||okpp01030.xyz^
+||okpp01031.xyz^
 ||okpp12311.xyz^
 ||okqqix.karitoke.jp^
 ||okrasbj6.de^
@@ -80451,6 +80454,7 @@
 ||sayelo.xyz^
 ||sayingconvicted.com^
 ||sayingdentalinternal.com^
+||sayinnovation.com^
 ||saylnk.com^
 ||saymedia.com^
 ||saysidewalk.com^
@@ -88331,6 +88335,7 @@
 ||sole.bkosmetik.com^
 ||sole.pretto.fr^
 ||sole.riverwalkdental.com.au^
+||soleblinds.com^
 ||solemnvine.com^
 ||solethreat.com^
 ||soliads.io^
@@ -112118,6 +112123,7 @@
 ||y1zoxngxp.com^
 ||y494.wdsu.com^
 ||y4e04gql5o1b.www.nookgaming.com^
+||y4l.icu^
 ||y66xvgo5i.chuimg.com^
 ||y6zqw.boyspornpics.com^
 ||y738.nhregister.com^
