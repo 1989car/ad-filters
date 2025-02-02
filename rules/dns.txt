@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 116796
-! Update Time(UTC+8): 2025-02-02 00:25:22
+! Total count: 116764
+! Update Time(UTC+8): 2025-02-02 09:49:34
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -6267,7 +6267,6 @@
 ||ad.kmib.co.kr^
 ||ad.l2b.co.za^
 ||ad.land.to^
-||ad.lapa.pub^
 ||ad.leadboltapps.net^
 ||ad.leap.app^
 ||ad.letmeads.com^
@@ -6357,7 +6356,6 @@
 ||ad.vietbao.vn^
 ||ad.viewus.co.kr^
 ||ad.vkool.net^
-||ad.vkoolzzz.net^
 ||ad.vo-media.ru^
 ||ad.vrvm.com^
 ||ad.walkgame.com^
@@ -7010,7 +7008,6 @@
 ||adjustbedevilsweep.com^
 ||adjusteddrug.com^
 ||adjustmentconfide.com^
-||adjusts.info^
 ||adjux.com^
 ||adk-static.affinity.net^
 ||adk.mybestclick.net^
@@ -7688,7 +7685,6 @@
 ||ads.kiemsat.vn^
 ||ads.kmib.co.kr^
 ||ads.lamchame.vn^
-||ads.laodongbinhduong.org.vn^
 ||ads.laodongnghean.vn^
 ||ads.lemmatechnologies.com^
 ||ads.leovegas.com^
@@ -7778,7 +7774,6 @@
 ||ads.telkomsel.com^
 ||ads.thanhnien.vn^
 ||ads.the-saleroom.com^
-||ads.thegioitiepthi.vn^
 ||ads.thesaigontimes.vn^
 ||ads.thetimes.co.uk^
 ||ads.thitruongtaichinhtiente.vn^
@@ -7811,7 +7806,6 @@
 ||ads.worldofshowjumping.com^
 ||ads.xedoisong.vn^
 ||ads.xemphimso.com^
-||ads.xemtivisohd.net^
 ||ads.xglobalmarkets.com^
 ||ads.xlxtra.com^
 ||ads.xtra.ca^
@@ -8059,7 +8053,6 @@
 ||adspectacle.net^
 ||adspeed.com^
 ||adspeed.net^
-||adsphim.lol^
 ||adspi.xyz^
 ||adspirit.de^
 ||adspirit.net^
@@ -8557,9 +8550,7 @@
 ||adx.baolongan.vn^
 ||adx.chinmedia.vn^
 ||adx.com.ru^
-||adx.edutimes.com.vn^
 ||adx.hoanggia.net.vn^
-||adx.hongtinnhanh.com^
 ||adx.io^
 ||adx.kul.vn^
 ||adx.mala.cn^
@@ -9546,7 +9537,6 @@
 ||aikrighawaks.com^
 ||aikrir.lcwaikiki.com^
 ||aiksohet.net^
-||ailamtrieuphu.com^
 ||ailaulsee.com^
 ||ailil-fzt.com^
 ||ailla.abphotos.link^
@@ -10994,7 +10984,6 @@
 ||analytics.gvim.mobi^
 ||analytics.hambleden-capital.com^
 ||analytics.hant.se^
-||analytics.hapo.vn^
 ||analytics.hardlightgames.com^
 ||analytics.hardrock.com^
 ||analytics.hashnode.com^
@@ -11173,7 +11162,6 @@
 ||analytics.mobile.walmart.com^
 ||analytics.mobile.yandex.net^
 ||analytics.mobilegamestats.com^
-||analytics.molistar.com^
 ||analytics.mondotv.jp^
 ||analytics.motherhood.se^
 ||analytics.motoemotostore.it^
@@ -11616,7 +11604,6 @@
 ||analytics.yolacdn.net^
 ||analytics.yorkstatebank.com^
 ||analytics.yourbankcard.com^
-||analytics.yts.vn^
 ||analytics.yugen.to^
 ||analytics.zagg.com^
 ||analytics.zapps.me^
@@ -12199,7 +12186,6 @@
 ||api.nas.nct.vn^
 ||api.newsfeed.intl.miui.com^
 ||api.ngamgaixinh.art^
-||api.ozui.vn^
 ||api.pingstart.com^
 ||api.primecaster.net^
 ||api.pubfinity.com^
@@ -16718,7 +16704,6 @@
 ||bg.mywd.com^
 ||bg2-irt.net.mydays.de^
 ||bg4nxu2u5t.com^
-||bgadx.com^
 ||bgaycm.exvital-shop.de^
 ||bgbg00.fun^
 ||bgecvddelzg.com^
@@ -17042,6 +17027,7 @@
 ||bit-ad.com^
 ||bit.beformance.com^
 ||bit.kozow.com^
+||bitad.ir^
 ||bitbank.la^
 ||bitbank6699.com^
 ||bitbeat7.com^
@@ -20111,7 +20097,6 @@
 ||cdn.almacz.com^
 ||cdn.amplitude.com^
 ||cdn.amzuu.com^
-||cdn.api-connect.io^
 ||cdn.appsmav.com^
 ||cdn.arcstudiopro.com^
 ||cdn.asdfix.com^
@@ -20984,7 +20969,6 @@
 ||chi.aomg5bzv7.com^
 ||chiamfxz.com^
 ||chiantiriem.com^
-||chiasephim.xyz^
 ||chibaigo.com^
 ||chicgar.info^
 ||chicheecmaungee.net^
@@ -24019,7 +24003,6 @@
 ||counter.nn.ru^
 ||counter.nope.dk^
 ||counter.ntdvn.com^
-||counter.ntdvn.net^
 ||counter.nv.ua^
 ||counter.ok.ee^
 ||counter.packa2.cz^
@@ -24413,7 +24396,6 @@
 ||crdefault.link^
 ||crdefault1.com^
 ||crdefault2.com^
-||cre-ads.com^
 ||creaghtain.com^
 ||creamssicsite.com^
 ||creamy-confidence.pro^
@@ -30815,7 +30797,6 @@
 ||deksoarguph.net^
 ||del-del-ete.com^
 ||delayedmall.pro^
-||delecpuzz.com^
 ||delegatediscussion.com^
 ||delete-me-2.branchcustom.xyz^
 ||delete-me.branchcustom.xyz^
@@ -38100,6 +38081,7 @@
 ||fermvn.magmac.pl^
 ||fernwaycloud.com^
 ||feroffer.com^
+||feronyv.com^
 ||ferret.ecvan.io^
 ||ferret.firstprogressivechurch.org^
 ||ferret.helpspace.com^
@@ -45248,7 +45230,6 @@
 ||hewonderfulst.info^
 ||hewrutu.top^
 ||hexagon-analytics.com^
-||hexapinow.xyz^
 ||hexinemicerun.top^
 ||hexitolsafely.top^
 ||hexovythi.pro^
@@ -52208,7 +52189,6 @@
 ||k864.orovillemr.com^
 ||k8ik878i.top^
 ||k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com^
-||k8trangphim.com^
 ||k9gj.site^
 ||k9u.icu^
 ||kaacsi.belvilla.nl^
@@ -54890,7 +54870,6 @@
 ||link.bulbul.tv^
 ||link.busuu.app^
 ||link.buzzwallet.io^
-||link.cado.pro^
 ||link.californiapsychics.com^
 ||link.capital-wellness.icanbwell.com^
 ||link.captionwriter.app^
@@ -60303,7 +60282,6 @@
 ||marketing.isaless.com^
 ||marketing.ismguide.com^
 ||marketing.itconsultingminneapolis.com^
-||marketing.itgeek.vn^
 ||marketing.itiball.com^
 ||marketing.itsavvy.com^
 ||marketing.itshome.com^
@@ -61971,7 +61949,6 @@
 ||media.capitaltradinggroup.com^
 ||media.claritylabsolutions.com^
 ||media.comeon.com^
-||media.dabong247.com^
 ||media.eagleridgeinvestment.com^
 ||media.elementsbehavioralhealth.com^
 ||media.foxweb.co.il^
@@ -65793,6 +65770,7 @@
 ||motorpresse-statistik.de^
 ||motorsports.locktonaffinity.net^
 ||motosal.net^
+||motphimqq.pro^
 ||motrixi.com^
 ||motsardi.net^
 ||motu-teamblue.services^
@@ -77449,11 +77427,9 @@
 ||quandoi-viettel.com^
 ||quangcao-*.epicdn.me^
 ||quangcao.24h.com.vn^
-||quangcao.baovannghe.com.vn^
 ||quangcao.fff.com.vn^
 ||quangcao.thanhnien.vn^
 ||quangcao.tuoitre.vn^
-||quangcao247.com.vn^
 ||quangcaococcoc.vn^
 ||quangcaodantri.vn^
 ||quangnamquetoi.weebly.com^
@@ -78894,7 +78870,6 @@
 ||regulushamal.top^
 ||rehabilitatereason.com^
 ||rehvbghwe.cc^
-||rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes^
 ||reicezenana.com^
 ||reichelcormier.bid^
 ||reimageplus.com^
@@ -82878,7 +82853,6 @@
 ||sd8015.xyz^
 ||sda.seesaa.jp^
 ||sda.seksohub.com^
-||sda.tamdiem247.com^
 ||sdamcsb.top^
 ||sdarot-il.org^
 ||sdarot-tv.org^
@@ -94686,7 +94660,6 @@
 ||stats.swissotel.com^
 ||stats.symbiofest.cz^
 ||stats.synedat.io^
-||stats.tamdiem247.com^
 ||stats.tarasyarema.com^
 ||stats.tax-venture.de^
 ||stats.tazeros.com^
@@ -96561,7 +96534,6 @@
 ||synchronizerobot.com^
 ||synchroparomologyauditable.monster^
 ||syncplusconfig.s3.amazonaws.com^
-||syncwowsails.com^
 ||syndenizen.shop^
 ||syndicate.payloadz.com^
 ||syndicatedsearch.goog^
@@ -98797,6 +98769,7 @@
 ||temperickysmelly.com^
 ||temperrunnersdale.com^
 ||tempertrick.com^
+||tempisite.com^
 ||templa.xyz^
 ||templates.buscape.com^
 ||templeoffendponder.com^
@@ -102476,12 +102449,10 @@
 ||track.kueez.com^
 ||track.kyna.vn^
 ||track.kyoads.com^
-||track.lapa.pub^
 ||track.lc.quark.cn^
 ||track.leadsgorillaoffer.com^
 ||track.leady.cz^
 ||track.lemmatechnologies.com^
-||track.lemonnovel.com^
 ||track.lesmills.com^
 ||track.libii.cn^
 ||track.lifebetterman.online^
@@ -103008,7 +102979,6 @@
 ||tracker.financialcontent.com^
 ||tracker.gamedock.io^
 ||tracker.gamemonkey.org^
-||tracker.gigaphim.com^
 ||tracker.gleanview.com^
 ||tracker.gpcdn.pl^
 ||tracker.grupanya.com^
@@ -103561,7 +103531,6 @@
 ||tracking.hiscox.com^
 ||tracking.hivecloud.net^
 ||tracking.hobbyladies.de^
-||tracking.hongtinnhanh.com^
 ||tracking.hot.net.il^
 ||tracking.hotel.check24.de^
 ||tracking.houzz.com^
@@ -104105,7 +104074,6 @@
 ||tracking.vessi.dk^
 ||tracking.vessi.se^
 ||tracking.vetlandaposten.se^
-||tracking.vht.com.vn^
 ||tracking.vid4u.org^
 ||tracking.vietbao.vn^
 ||tracking.viewlift.com^
@@ -109537,7 +109505,6 @@
 ||vlry5l4j5gbn.com^
 ||vltjnmkps.xyz^
 ||vlupvo.innerartworld.com^
-||vlxx.host^
 ||vlyby.com^
 ||vlzcsh.dtrtmen.com^
 ||vm4.aomg5bzv7.com^
@@ -116395,6 +116362,7 @@
 ||zlog.zingmp3.vn^
 ||zlolhl.3dnews.ru^
 ||zlolhl.mediametrics.ru^
+||zloweb.me^
 ||zlp6s.pw^
 ||zltndp.xyz^
 ||zlvdcc.mypulsera.de^
