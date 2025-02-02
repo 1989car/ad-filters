@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 116776
-! Update Time(UTC+8): 2025-02-02 16:26:22
+! Total count: 116801
+! Update Time(UTC+8): 2025-02-03 00:26:34
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -5090,6 +5090,7 @@
 ||aaaa.jawfp2.org^
 ||aaaa.nocor.jp^
 ||aaaaaco.com^
+||aaaacdn.com^
 ||aaacdbf17d.com^
 ||aaacompany.net^
 ||aaae5b9ee0.d3aa46b2e8.com^
@@ -6459,6 +6460,7 @@
 ||adaround.net^
 ||adarutoad.com^
 ||adasdz.cn^
+||adasgmp.cc^
 ||adasgsts.cc^
 ||adash.m.taobao.com^
 ||adash.man.aliyuncs.com^
@@ -9896,6 +9898,7 @@
 ||aladdinupdate.blackrock.com^
 ||alaeshire.com^
 ||alagaodealing.com^
+||alalos.com^
 ||alanibelen.com^
 ||alaoena.xyz^
 ||alaot.com^
@@ -14060,6 +14063,7 @@
 ||assignmentlonesome.com^
 ||assimilatecigarettes.com^
 ||assinatura.marketingbmg.bancobmg.com.br^
+||assisantornus.top^
 ||assistads.net^
 ||assistancelawnthesis.com^
 ||assistancetrack.changehealthcare.com^
@@ -14301,6 +14305,7 @@
 ||atonementelectronics.com^
 ||atonementfosterchild.com^
 ||atonementimmersedlacerate.com^
+||atoqkcpvmru.com^
 ||atorks.xyz^
 ||atoso.alphatonicoffers.online^
 ||atovub.com^
@@ -16697,6 +16702,7 @@
 ||bfoleyinteractive.com^
 ||bfp.capitalone.com^
 ||bft5.destinia.fr^
+||bfvadionchrecq.com^
 ||bfvlgp.appstory.co.kr^
 ||bfxszq.miliboo.com^
 ||bfxytxdpnk.com^
@@ -18490,6 +18496,7 @@
 ||bsna.inno.be^
 ||bsosgd.midori-anzen.com^
 ||bss.pandora.xiaomi.com^
+||bssaly.com^
 ||bstias.avilon.ru^
 ||bstn-14-ma.com^
 ||bstyjo.reelflyrod.com^
@@ -24613,6 +24620,7 @@
 ||cruhut.com^
 ||cruiserx.net^
 ||cruisetourist.com^
+||crumberstoa.com^
 ||crumblerefunddiana.com^
 ||crumbrationally.com^
 ||crumbs.robinhood.com^
@@ -26731,7 +26739,6 @@
 ||dana123.com^
 ||danatrak.com^
 ||danbo.org^
-||dance.javgle.tokyo^
 ||dancefordamazed.com^
 ||dancemistake.com^
 ||dandelionnoddingoffended.com^
@@ -32851,6 +32858,7 @@
 ||dowrylatest.com^
 ||doxihz.xyz^
 ||doyenssudsier.click^
+||doyoudi.com^
 ||dozententag.ni.com^
 ||dozubatan.com^
 ||dozzlegram-duj-i-280.site^
@@ -39442,6 +39450,7 @@
 ||fpgedsewst.com^
 ||fpghll.rossmann.hu^
 ||fpgonuk.icu^
+||fpialotwhquuw.com^
 ||fpida.amphi.jp^
 ||fpida.bodybook.jp^
 ||fpida.cw-x.jp^
@@ -44202,6 +44211,7 @@
 ||gumi.craach.space^
 ||gumlahdeprint.com^
 ||gummierhedera.life^
+||gumnus.com^
 ||gumon.site^
 ||gunlockpepped.shop^
 ||gunwaleneedsly.com^
@@ -44272,6 +44282,7 @@
 ||gvzsrqp.com^
 ||gw-analytics.panasonic.com^
 ||gw-dv.vip^
+||gw.conversionsapigateway.com^
 ||gw2cddpt2hao.asia^
 ||gw2cddpt2hao.cloud^
 ||gw2cddpt2hao.site^
@@ -50961,6 +50972,7 @@
 ||javdawn.fun^
 ||javgenetic11.fun^
 ||javgg.eu^
+||javgle.tokyo^
 ||javgulf.fun^
 ||javjean.fun^
 ||javlicense11.fun^
@@ -54476,6 +54488,7 @@
 ||lf8q.online^
 ||lfapbe.quiksilver.co.jp^
 ||lfb.ink^
+||lfbfkkkqiza.com^
 ||lfbowp.talisa.com^
 ||lfeaqcozlbki.com^
 ||lfercl.tcb-beauty.net^
@@ -57209,6 +57222,7 @@
 ||log-tb.isnssdk.com^
 ||log-tb.sgsnssdk.com^
 ||log-upload-eur.mihoyo.com^
+||log-upload-os.hoyolab.com^
 ||log-upload-os.hoyoverse.com^
 ||log-upload-os.mihoyo.com^
 ||log-upload.mihoyo.com^
@@ -69710,6 +69724,7 @@
 ||oijkse.com^
 ||oijorfkfwtdswv.xyz^
 ||oijpml.sastty.com^
+||oijsncvhg.com^
 ||oijzvhzt.com^
 ||oikckw.scarosso.com^
 ||oikwky.wa-jp.com^
@@ -73603,6 +73618,7 @@
 ||piads.vn^
 ||piaigyyigyghjmi.xyz^
 ||pianis.shop^
+||pianwela.xyz^
 ||piar-m.ru^
 ||piarecdn.com^
 ||piaroankenyte.store^
@@ -77197,6 +77213,7 @@
 ||qmlzcm.petshop.ru^
 ||qmoyfh.xcite.com.sa^
 ||qmrelvezolbrv.top^
+||qmrmcqnktmhn.com^
 ||qmtjvq.kuoni.ch^
 ||qmxbqwbprwavac.xyz^
 ||qmyirt.sgambato-ski-shop.fr^
@@ -79746,6 +79763,7 @@
 ||ric.contur-muenchen.de^
 ||ric.riedel-immobilien.de^
 ||ricalsbuildfordg.info^
+||ricarvort.com^
 ||ricead.com^
 ||ricettadellanonna.com^
 ||ricewaterhou.xyz^
@@ -86095,6 +86113,7 @@
 ||sjardw.footlocker.fr^
 ||sjbaiduadv1.redou.com^
 ||sjc.cloud.optable.co^
+||sjdgkfhwkrkmi.com^
 ||sjetnf-oizyo.buzz^
 ||sjezce.xyz^
 ||sjfku11.com^
@@ -98334,6 +98353,7 @@
 ||tccd.nocibe.fr^
 ||tccd.parfumdreams.de^
 ||tccjxk.123.ru^
+||tccnqgnmeveay.com^
 ||tcdata.fnac.com^
 ||tcdypeptz.com^
 ||tce.alicdn.com^
@@ -99107,6 +99127,7 @@
 ||tgw.web.de^
 ||tgwfaz.icu^
 ||th-go.experian.com^
+||th.tubetruck.com^
 ||th700.com^
 ||thacreks.com^
 ||thaculse.net^
@@ -104451,6 +104472,7 @@
 ||transactionsbeatenapplication.com^
 ||transcriptcompassionacute.com^
 ||transcriptjeanne.com^
+||transcriptswarm.com^
 ||transferamerica-to-vietnammoney.weebly.com^
 ||transferloitering.com^
 ||transferzenad.com^
@@ -108528,6 +108550,7 @@
 ||venturead.com^
 ||ventureclamourtotally.com^
 ||venturepeasant.com^
+||venueartisticdisinterested.com^
 ||venueitemmagic.com^
 ||venulaeriggite.com^
 ||venus.aomg5bzv7.com^
@@ -109190,6 +109213,7 @@
 ||vindicosuite.com^
 ||vindictivegrabnautical.com^
 ||vinegardaring.com^
+||vinelethoner.com^
 ||vingartistictaste.com^
 ||vingroup.fit^
 ||vingroup.shop^
@@ -115332,6 +115356,7 @@
 ||yl0sj9.cyou^
 ||ylafwg.greenpoint.pl^
 ||ylakmr.expressionscatalog.com^
+||ylcziaipyztvv.com^
 ||yldbt.com^
 ||yldmgrimg.net^
 ||yldxphtg.xyz^
