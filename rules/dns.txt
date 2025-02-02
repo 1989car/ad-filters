@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 116764
-! Update Time(UTC+8): 2025-02-02 09:49:34
+! Total count: 116776
+! Update Time(UTC+8): 2025-02-02 16:26:22
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -1945,6 +1945,7 @@
 ||5581.4puuqeh41.com^
 ||5596.34gwl8v1a.com^
 ||55cc9d.xyz^
+||55f4605f6d.com^
 ||55labs.com^
 ||55lotte.com^
 ||5600.cosmicnewspulse.com^
@@ -6458,6 +6459,7 @@
 ||adaround.net^
 ||adarutoad.com^
 ||adasdz.cn^
+||adasgsts.cc^
 ||adash.m.taobao.com^
 ||adash.man.aliyuncs.com^
 ||adashx4ae.ut.taobao.com^
@@ -22430,6 +22432,7 @@
 ||cogitatetrailsplendid.com^
 ||cogmatch.net^
 ||cognatebenefactor.com^
+||cognatesyringe.com^
 ||cognitionmesmerize.com^
 ||cognitivematch.com^
 ||cognizancesteepleelevate.com^
@@ -37493,6 +37496,7 @@
 ||facilities.ubm-events.com^
 ||facilitycompetition.com^
 ||facilityearlyimminent.com^
+||facisespess.com^
 ||fackeyess.com^
 ||factortg.com^
 ||factoruser.com^
@@ -38733,6 +38737,7 @@
 ||flags.es^
 ||flairads.com^
 ||flairadscpc.com^
+||flakefanwort.shop^
 ||flakesaridphysical.com^
 ||flakeschopped.com^
 ||flakyfeast.com^
@@ -46870,6 +46875,7 @@
 ||iastrology.net^
 ||iatoex.kahve.com^
 ||iaujef.editorasanar.com.br^
+||iaukmlastitytyeast.com^
 ||iazada.com^
 ||iazwzp.lyst.com^
 ||ib-ebanking.com^
@@ -53805,6 +53811,7 @@
 ||lantern9.mandg.com^
 ||lanternmg.mandg.com^
 ||lantodomirus.com^
+||lanyinadiingsin.com^
 ||lanzonmotlier.click^
 ||laolcwsd.tech^
 ||laoqo.top^
@@ -80348,6 +80355,7 @@
 ||rrss.abc.es^
 ||rruvbtb.com^
 ||rrvay.com^
+||rrxapb.icu^
 ||rrxldl.bol.de^
 ||rrzjma.ecoprodukt.sk^
 ||rrzmvc.aziocorp.com^
@@ -107255,6 +107263,7 @@
 ||unusualtitle.com^
 ||unusualwarmingloner.com^
 ||unwelcomegardenerinterpretation.com^
+||unwelcomehurry.com^
 ||unwieldyhealth.com^
 ||unwieldyimpulse.com^
 ||unwieldyplastic.com^
@@ -112020,6 +112029,7 @@
 ||wipeilluminationlocomotive.com^
 ||wipepeepcyclist.com^
 ||wipowaxe.com^
+||wipzxpbs.com^
 ||wirecomic.com^
 ||wiredforcoffee.com^
 ||wiredminds.de^
@@ -116324,6 +116334,7 @@
 ||zkc5.fleurancenature.fr^
 ||zkcvb.com^
 ||zkczzltlhp6y.com^
+||zkdefuiz.icu^
 ||zkdkvnzsdxge.info^
 ||zkebwy.copenhagenstudios.com^
 ||zkgbkn.pinkwoman-fashion.com^
@@ -116410,6 +116421,7 @@
 ||znq9.destinia.mx^
 ||znrttr.jaypore.com^
 ||znvlfef.com^
+||znvmlmsqfseioy.com^
 ||zoachoar.net^
 ||zoachops.com^
 ||zoagreejouph.com^
