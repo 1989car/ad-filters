@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 116805
-! Update Time(UTC+8): 2025-02-03 09:46:43
+! Total count: 116806
+! Update Time(UTC+8): 2025-02-03 16:29:20
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -12267,6 +12267,7 @@
 ||apnpr.com^
 ||apnttuttej.com^
 ||apogee.spacenews.com^
+||apollo.miniclip.com^
 ||apollo.plein.nl^
 ||apollofind.com^
 ||apologiesneedleworkrising.com^
