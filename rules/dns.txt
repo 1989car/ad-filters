@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 115634
-! Update Time(UTC+8): 2025-03-02 00:26:39
+! Total count: 115637
+! Update Time(UTC+8): 2025-03-02 09:56:00
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -16345,6 +16345,7 @@
 ||bimbim.com^
 ||biminibliss.rwbimini.com^
 ||bimlocal.com^
+||bimnodstz.com^
 ||bimsld.com^
 ||bin-layer.de^
 ||bin-layer.ru^
@@ -37496,6 +37497,7 @@
 ||fffbd1538e.com^
 ||ffgarena-membeship.com^
 ||ffgarenavongquay.xyz^
+||ffjevt.icu^
 ||ffkcrs.happy-size.nl^
 ||ffmemberrship-garena.com^
 ||ffmembershipggarena.com^
@@ -68528,6 +68530,7 @@
 ||odqciqdazjuk.com^
 ||odtrtadl.com^
 ||odvrjedubvedqs.com^
+||odxh.cn^
 ||odysseus-nua.com^
 ||oebarc.ekosport.at^
 ||oecistbenton.com^
