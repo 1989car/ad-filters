@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 115637
-! Update Time(UTC+8): 2025-03-02 09:56:00
+! Total count: 115640
+! Update Time(UTC+8): 2025-03-02 16:27:18
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -41097,6 +41097,7 @@
 ||gmufag.wday.ru^
 ||gmufag.woman.ru^
 ||gmusgr.millesima.ch^
+||gmwqpgq.top^
 ||gmxcdm.vestel.com.tr^
 ||gmxvmvptfm.com^
 ||gmxysb.icu^
@@ -78615,6 +78616,7 @@
 ||rhythmmoney.com^
 ||rhythmrule.com^
 ||rhythmxchange.com^
+||rhzofr.icu^
 ||rhzvlcu.xyz^
 ||riamiavid.com^
 ||riaoz.xyz^
@@ -111656,6 +111658,7 @@
 ||wuliao.chzsport.cn^
 ||wuliao.epro.sogou.com^
 ||wuliao.juqingba.cn^
+||wumd.cn^
 ||wumufama.com^
 ||wuncqh.cooksongold.com^
 ||wundercounter.com^
