@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 115899
-! Update Time(UTC+8): 2025-03-05 16:31:21
+! Total count: 115915
+! Update Time(UTC+8): 2025-03-06 00:37:31
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -915,6 +915,7 @@
 ||24plexus.com^
 ||24s1b0et1.de^
 ||24smi.net^
+||24support.cc^
 ||24x7adservice.com^
 ||2505.5clo0xmbf.com^
 ||25073bb296.com^
@@ -7386,6 +7387,7 @@
 ||ads2.videy.co^
 ||ads2550.bid^
 ||ads2ads.net^
+||ads2native.com^
 ||ads3-adnow.com^
 ||ads3.videy.co^
 ||ads4allweb.de^
@@ -14158,6 +14160,7 @@
 ||auxmoney-partnerprogramm.de^
 ||av6fm8zw2cvz.furucombo.app^
 ||avads.co.uk^
+||avads.live^
 ||avads.net^
 ||availablerest.com^
 ||avalancheofnews.com^
@@ -15063,6 +15066,7 @@
 ||banktopvn.online^
 ||bankvn1s.com^
 ||banner*.kinogo.by^
+||banner-iframe.com^
 ||banner-media.ru^
 ||banner-online.nl^
 ||banner.*.tccapis.com^
@@ -30757,6 +30761,7 @@
 ||dienmayxanhtrungtam.com^
 ||dienthoaiviet.net^
 ||dietschoolvirtually.com^
+||dietythraves.top^
 ||differencenaturalistfoam.com^
 ||differenchi.pro^
 ||differentcoat.com^
@@ -45434,6 +45439,7 @@
 ||hrenbjkdas.com^
 ||hrfdulynyo.xyz^
 ||hrihfiocc.com^
+||hrjbylofyso.com^
 ||hrjciqyu.icu^
 ||hrjdmo.rosettastone.co.uk^
 ||hrm.healthgrades.com^
@@ -51107,6 +51113,7 @@
 ||justwebcards.com^
 ||jutyledu.pro^
 ||juutckrt.icu^
+||juvjimicwbauuw.com^
 ||juwhdw.piscine-market.com^
 ||jux9ms4vc7.ru^
 ||juzaugleed.com^
@@ -66080,6 +66087,7 @@
 ||nannyirrationalacquainted.com^
 ||nanofantiki.edigest.ru^
 ||nanostats.nanopress.it^
+||nanthou.life^
 ||naoudodra.com^
 ||nap-the.vn^
 ||napainsi.net^
@@ -69865,6 +69873,7 @@
 ||opx.webtool.net^
 ||opximages.webtool.net^
 ||opxvkr.urbancherry.jp^
+||opzvalfafh.com^
 ||oqaejin.icu^
 ||oqbaxgolrabl.com^
 ||oqbbkv.promosejours.com^
@@ -78845,6 +78854,7 @@
 ||rkgnmwre.site^
 ||rkgwzfwjgk.com^
 ||rkhovdiminatedmo.org^
+||rkksbrkwdqbop.com^
 ||rklxjd.thegrindfitness.com^
 ||rklzpo.com^
 ||rknwwtg.com^
@@ -79950,6 +79960,7 @@
 ||rverxn.autosphere.fr^
 ||rvetreyu.net^
 ||rvgisl.globkurier.pl^
+||rvgtaai.top^
 ||rvhxht.smulderstextiel.nl^
 ||rvhzjg.desivero.com^
 ||rvimil.platy.com^
@@ -85154,6 +85165,7 @@
 ||sketchyrecycleimpose.com^
 ||sketfarinha.shop^
 ||skewserer.com^
+||skgpzivadwdte.buzz^
 ||skhf11.com^
 ||skhf66.com^
 ||skhmjezzj.com^
@@ -97956,6 +97968,7 @@
 ||tedo-stats.de^
 ||tedtaxi.com^
 ||tedtug.com^
+||teedastoowu.net^
 ||teefiksummin.visma.fi^
 ||teeglimu.com^
 ||teemmachinerydiffer.com^
@@ -105434,6 +105447,7 @@
 ||tvbafy.phoneppu.com^
 ||tvc.biphim.club^
 ||tvcoag.brw.pl^
+||tver-metrics.streaks.jp^
 ||tveta.naver.net^
 ||tvetamovie.pstatic.net^
 ||tvfeel.cc^
@@ -108360,6 +108374,7 @@
 ||vigorouslymicrophone.com^
 ||vigourmotorcyclepriority.com^
 ||vigsole.com^
+||vihbuposxci.com^
 ||vihqpr.xyz^
 ||vihtori-analytics.fi^
 ||vihub.ru^
@@ -109480,6 +109495,7 @@
 ||vwthgw.elari.net^
 ||vwuiefsgtvixw.xyz^
 ||vwvatp.xyz^
+||vwvj.cn^
 ||vwwoec.thahab.com^
 ||vwwzygltq.com^
 ||vx2vmoxd9x0cj7m3.pleasedonotblockme.com^
