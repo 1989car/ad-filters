@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 115888
-! Update Time(UTC+8): 2025-03-05 00:30:45
+! Total count: 115898
+! Update Time(UTC+8): 2025-03-05 09:52:36
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -19202,6 +19202,7 @@
 ||catwisekusan.com^
 ||catwrite.com^
 ||cau1aighae.com^
+||caudatedaystar.top^
 ||caukoaph.net^
 ||cauldronrepellentcanvass.com^
 ||caulicuzooque.net^
@@ -19572,7 +19573,6 @@
 ||cdn.wenzhangba.cn^
 ||cdn.wolf-327b.com^
 ||cdn.wootric.com^
-||cdn.wtshare.com^
 ||cdn.wuyou.ca^
 ||cdn.xbcpcn.com^
 ||cdn.xpln.tech^
@@ -36389,7 +36389,6 @@
 ||exterminateantique.com^
 ||exterminatesuitcasedefenceless.com^
 ||extern.prisjakt.nu^
-||external-ad.bunjang.co.kr^
 ||external-api.impression-neo.naver.com^
 ||external-promo-metrics.yandex.net^
 ||external.reseguiden.se^
@@ -39120,7 +39119,6 @@
 ||funnyairplane.com^
 ||funoverbored.com^
 ||funoverflow.com^
-||funpavo.com^
 ||funsoups.com^
 ||funstage.com^
 ||funtoday.info^
@@ -39525,7 +39523,6 @@
 ||gamersad.com^
 ||gamersshield.com^
 ||gamersterritory.com^
-||games.tresensa.com^
 ||gamesaffiliate.de^
 ||gamescarousel.com^
 ||gamescdnfor.com^
@@ -42401,6 +42398,7 @@
 ||greepseedrobouk.net^
 ||greerogloo.net^
 ||greeter.me^
+||greeterstaniel.com^
 ||greetpanda.org^
 ||greetzebra.com^
 ||greewepi.net^
@@ -42598,6 +42596,7 @@
 ||grurawho.com^
 ||grushoungy.com^
 ||grutauvoomtoard.net^
+||grutsokucaiftoa.com^
 ||gruwzapcst.com^
 ||grv.media^
 ||grvmedia.com^
@@ -43424,7 +43423,6 @@
 ||gw8.icu^
 ||gwallet.com^
 ||gwbone-cpw.today^
-||gwbudgetali.iymedia.me^
 ||gwcadvlamk.com^
 ||gwdlvv.renefurtererusa.com^
 ||gwdsyh.toyotacenter.ru^
@@ -43941,6 +43939,7 @@
 ||hbpnnz.cyou^
 ||hbwrapper.com^
 ||hbxiol.numberingwebsite.com^
+||hbxmdf.icu^
 ||hby7.destinia.it^
 ||hbzikbe.com^
 ||hbzjht.com^
@@ -56878,6 +56877,7 @@
 ||logs.theccaa.com^
 ||logs.thethaovanhoa.vn^
 ||logs.unchecky.com^
+||logs.viewstats.com^
 ||logs13.xiti.com^
 ||logs1407.xiti.com^
 ||logs1409.xiti.com^
@@ -58565,7 +58565,6 @@
 ||mango.aomg5bzv7.com^
 ||mangoa.xyz^
 ||mangoads.net^
-||mangomob.net^
 ||mangtaoxa.xyz^
 ||maniacalappliance.com^
 ||maniasensiblecompound.com^
@@ -67619,7 +67618,6 @@
 ||notification-list.com^
 ||notificationallow.com^
 ||notifications.website^
-||notifiy.rtbuniverse.com^
 ||notiflist.com^
 ||notifpush.com^
 ||notifpushnext.net^
@@ -68863,6 +68861,7 @@
 ||ojkduzbm.com^
 ||ojlsxt.pigment.co.kr^
 ||ojm4.palladiumhotelgroup.com^
+||ojmv.cn^
 ||ojmvywz.com^
 ||ojmxro.yatsan.com^
 ||ojoglir.com^
@@ -72842,6 +72841,7 @@
 ||pitors.com^
 ||pitshopsat.com^
 ||pittaking.openapp.link^
+||pittardhectare.com^
 ||pitycultural.com^
 ||pityneedsdads.com^
 ||pitysuffix.com^
@@ -73711,6 +73711,7 @@
 ||politiciancuckoo.com^
 ||polityimpetussensible.com^
 ||poll.pollinatepolls.com^
+||pollentdalaga.shop^
 ||pollpublicly.com^
 ||pollster.pl^
 ||pollutiongram.com^
@@ -75182,6 +75183,7 @@
 ||ptongouh.net^
 ||ptoockex.xyz^
 ||ptookaih.net^
+||ptookirgoonsa.com^
 ||ptoorauptoud.net^
 ||ptootsailrou.net^
 ||ptootseegle.net^
@@ -78972,6 +78974,7 @@
 ||robotrenamed.com^
 ||robspabah.com^
 ||robustbelieve.com^
+||rocheachaja.com^
 ||rochelle.wantsext.me^
 ||rochesterbreedpersuade.com^
 ||rochestertrend.com^
@@ -84145,6 +84148,7 @@
 ||shonetransmittedfaces.com^
 ||shonevegetable.com^
 ||shonretimus.com^
+||shoofabhalu.com^
 ||shoofle.tv^
 ||shoogloonetwork.com^
 ||shoojoudro.net^
@@ -94494,6 +94498,7 @@
 ||stoopsellers.com^
 ||stooreywauns.com^
 ||stoorgel.com^
+||stoorgouzoy.com^
 ||stootsou.net^
 ||stopaggregation.com^
 ||stopformal.com^
@@ -94794,6 +94799,7 @@
 ||stughoamoono.net^
 ||stugsoda.com^
 ||stukroapseds.net^
+||stulmunshent.com^
 ||stummedperca.top^
 ||stunkrins.com^
 ||stunliver.com^
@@ -98831,6 +98837,7 @@
 ||thuytrieukiemtien.online^
 ||thvaqe.kunooz.com^
 ||thwgtm.sporilek.cz^
+||thyinegutnic.com^
 ||thymeycimnel.com^
 ||thymilogium.top^
 ||thyobscure.com^
@@ -99113,6 +99120,7 @@
 ||tindungtechcombank247.online^
 ||tindungvietcombank.net^
 ||tingecauyuksehin.com^
+||tingesfosses.com^
 ||tingexcelelernodyden.info^
 ||tinggalklik.com^
 ||tingiaitrian.com^
@@ -99182,6 +99190,7 @@
 ||tirecolloquialinterest.com^
 ||tireconfessed.com^
 ||tireconnateunion.com^
+||tiredpause.com^
 ||tiredthroat.com^
 ||tirejav12.fun^
 ||tirepoliticsspeedometer.com^
@@ -114164,6 +114173,7 @@
 ||yaaigc.laissepasse.jp^
 ||yaayoi.neatfx.fr^
 ||yabzhw.verisure.it^
+||yackedcuttage.com^
 ||yackos.mamalicious.com^
 ||yadro.ru^
 ||yads.yahoo.co.jp^
