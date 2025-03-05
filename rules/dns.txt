@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 115898
-! Update Time(UTC+8): 2025-03-05 09:52:36
+! Total count: 115899
+! Update Time(UTC+8): 2025-03-05 16:31:21
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -580,7 +580,6 @@
 ||190b1f9880.com^
 ||19199675.xyz^
 ||1919f4eccf.08031fef00.com^
-||192.luyouwang.com^
 ||1926.5clo0xmbf.com^
 ||1927.5clo0xmbf.com^
 ||1938.5clo0xmbf.com^
@@ -38876,6 +38875,7 @@
 ||friendsoulscombination.com^
 ||frighten3452.fun^
 ||frightenedpotato.com^
+||frillyearth.com^
 ||fringantlarn8.live^
 ||fringecompetenceranger.com^
 ||fringeforkgrade.com^
@@ -57596,6 +57596,7 @@
 ||ltzrvv.shineweddinginvitations.com^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
+||lu2.luyouwang.com^
 ||lu9xve2c97l898gjjxv4.ballercap.com^
 ||lu9xve2c97l898gjjxv4.bigglobaltravel.com^
 ||lu9xve2c97l898gjjxv4.brain-sharper.com^
