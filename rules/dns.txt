@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 115993
-! Update Time(UTC+8): 2025-03-07 16:30:18
+! Total count: 116010
+! Update Time(UTC+8): 2025-03-08 00:32:02
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -2385,6 +2385,7 @@
 ||89.bestinterestings.com^
 ||8923.5clo0xmbf.com^
 ||89263907.xyz^
+||89296649.xyz^
 ||892e84a94b.e94377cdef.com^
 ||8933.5clo0xmbf.com^
 ||89407765.xyz^
@@ -14051,6 +14052,7 @@
 ||aungudie.com^
 ||aunsagoa.xyz^
 ||aunsaick.com^
+||aunsoocmunoan.net^
 ||aunstollarinets.com^
 ||auntants.com^
 ||auntiealtogethertumor.com^
@@ -32670,6 +32672,7 @@
 ||dxe2.heip.fr^
 ||dxeldq.madeindesign.com^
 ||dxfidr.xyz^
+||dxfxprblebylv.com^
 ||dxgo95ahe73e8.cloudfront.net^
 ||dxh2ivs16758.cloudfront.net^
 ||dxifoo.ecco-verde.de^
@@ -40253,6 +40256,7 @@
 ||getadfinity.com^
 ||getadx.com^
 ||getadzuki.com^
+||getallmedia.com^
 ||getalltraffic.com^
 ||getapp.eltiempo.es^
 ||getapp.joinleaf.com^
@@ -40737,6 +40741,7 @@
 ||glaignatsensah.xyz^
 ||glaijauk.xyz^
 ||glaikrolsoa.com^
+||glaiksoachou.com^
 ||glairsbecchi.top^
 ||glaisseexoar.net^
 ||glaiwhee.net^
@@ -43915,6 +43920,7 @@
 ||hauraiwaurulu.net^
 ||hautoust.com^
 ||hauufhgezl.com^
+||hauwoopauy.net^
 ||hauzdj.quellogiusto.it^
 ||haval.admc-me.com^
 ||haveameet.com^
@@ -43939,6 +43945,7 @@
 ||haychalk.com^
 ||haymarketstat.de^
 ||haymowsrakily.com^
+||haywirewooled.com^
 ||hazawl.veke.fi^
 ||hazelhideous.com^
 ||hazelmarks.com^
@@ -44444,6 +44451,7 @@
 ||hfnnkvuig.com^
 ||hfnuqljjnt.com^
 ||hfoghh.inter.it^
+||hfogzeaggalh.com^
 ||hfolmr.office-com.jp^
 ||hfpmjbfhyau.com^
 ||hfptbb.cn^
@@ -51418,6 +51426,7 @@
 ||kapetracking.com^
 ||kapitalrus.ru^
 ||kaplay.com^
+||kapnqcbhdxjfokr.com^
 ||kaprila.com^
 ||kaputquill.com^
 ||kapvu.cn^
@@ -70458,6 +70467,7 @@
 ||overcomecheck.com^
 ||overconfidentfood.com^
 ||overcooked-construction.com^
+||overcoythuoc.com^
 ||overcrowdsillyturret.com^
 ||overdates.com^
 ||overestimateoption.com^
@@ -75225,6 +75235,7 @@
 ||ptgxwo.toolstoday.com^
 ||ptichoolsougn.net^
 ||ptidsezi.com^
+||ptifaustounsaz.com^
 ||ptigjkkds.com^
 ||ptipsixo.com^
 ||ptipsout.net^
@@ -78748,6 +78759,7 @@
 ||richads.com^
 ||richard-group.com^
 ||richaudience.com^
+||richeighth.shop^
 ||richestplacid.com^
 ||richh.cn^
 ||richinfo.co^
@@ -84938,6 +84950,7 @@
 ||sillyscrew.com^
 ||silpharapidly.com^
 ||silsautsacmo.com^
+||silurehoghood.com^
 ||silver-pen.pro^
 ||silveraddition.pro^
 ||silverfish.djordjevanjek.com^
@@ -98909,6 +98922,7 @@
 ||thursdaysalesmanbarrier.com^
 ||thursejokers.top^
 ||thusenteringhypocrisy.com^
+||thustilpn.com^
 ||thuthoock.net^
 ||thutucnhangiai2022.com^
 ||thutucnhantien-tunuocngoai.weebly.com^
@@ -100056,6 +100070,7 @@
 ||totemcash.com^
 ||totemsplurgy.top^
 ||totentacruelor.com^
+||totesnobis.com^
 ||totlnkbn.com^
 ||totlnkcl.com^
 ||toto.pandasuite.io^
@@ -106038,6 +106053,7 @@
 ||uexgsi.guppy.jp^
 ||ueykjfltxqsb.space^
 ||uezbshzpdcbb.info^
+||ufachoustoh.net^
 ||ufaexpert.com^
 ||ufbcrgms.com^
 ||ufbmyg.olela.fr^
@@ -107230,6 +107246,7 @@
 ||uz-analysis.akamaized.net^
 ||uz-kqtecqs.space^
 ||uzauxaursachoky.net^
+||uzbeknisse.top^
 ||uzcxdo.eastwood.com^
 ||uzd1.madeindesign.com^
 ||uzdhsjuhrw.com^
