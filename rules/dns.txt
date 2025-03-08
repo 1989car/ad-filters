@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 116010
-! Update Time(UTC+8): 2025-03-08 00:32:02
+! Total count: 116024
+! Update Time(UTC+8): 2025-03-08 09:24:24
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -5211,6 +5211,7 @@
 ||acacdn.com^
 ||acache.ilbe.com^
 ||acaciagrownborrowing.com^
+||academic-level.pro^
 ||academics.academicsuperstore.com^
 ||academyblocked.com^
 ||academyenrage.com^
@@ -6048,6 +6049,7 @@
 ||adballoon.sooplive.co.kr^
 ||adbard.net^
 ||adbasket.net^
+||adbbihbmyki.com^
 ||adbc.io^
 ||adbd.liuxue86.com^
 ||adbean.ru^
@@ -17784,6 +17786,7 @@
 ||browser.events.data.msn.cn^
 ||browser.events.data.msn.com^
 ||browser.pipe.aria.microsoft.com^
+||browsercfg-drcn.cloud.dbankcloud.cn^
 ||browserdownloadz.com^
 ||browsergames2018.com^
 ||browserr.top^
@@ -18294,6 +18297,7 @@
 ||bxiaev.linvosges.com^
 ||bxlmrl.xyz^
 ||bxlsct.ex-shop.net^
+||bxlulr.icu^
 ||bxmazls.icu^
 ||bxmlsu.aluahotels.com^
 ||bxnzyj.marabraz.com.br^
@@ -20518,6 +20522,7 @@
 ||cigaretteintervals.com^
 ||cigarettenotablymaker.com^
 ||cigfhaztaqu.com^
+||cigoadrouz.com^
 ||cihac.ubmmexico.com^
 ||ciivtz.usinebureau.com^
 ||ciizxsdr.com^
@@ -42338,6 +42343,7 @@
 ||grantedpigsunborn.com^
 ||granthspillet.top^
 ||grantinsanemerriment.com^
+||grapefruitstarchbeep.com^
 ||grapeopinion.com^
 ||grapeshot.co.uk^
 ||grapheffect.com^
@@ -44941,6 +44947,7 @@
 ||hlserve.com^
 ||hlstlyy.com^
 ||hltckl.vendulalondon.com^
+||hltpdd.icu^
 ||hlviet84.com^
 ||hlygsp.modivo.ro^
 ||hlyrecomemum.info^
@@ -45741,6 +45748,7 @@
 ||hutoumseet.com^
 ||huuocxu.icu^
 ||huwuftie.com^
+||huxitsaise.net^
 ||huzzahscurl.top^
 ||huzzasbakula.shop^
 ||hvac.goodcoinc.com^
@@ -52914,6 +52922,7 @@
 ||lanistaconcepts.com^
 ||lanknewcomer.com^
 ||lanky-bar.com^
+||lankyteaching.com^
 ||lanopoon.net^
 ||lansaimplemuke.com^
 ||lantern.connect.o2.co.uk^
@@ -56923,6 +56932,7 @@
 ||logs.eresmas.com^
 ||logs.gaaana.com^
 ||logs.gaana.com^
+||logs.getfiddler.com^
 ||logs.gshopper.com^
 ||logs.hotstar.com^
 ||logs.insight.rapid7.com^
@@ -67883,6 +67893,7 @@
 ||nreg.world^
 ||nretholas.com^
 ||nrg.red-by-sfr.fr^
+||nrgv.cn^
 ||nrich.ai^
 ||nrjcur.pomelofashion.com^
 ||nrmd.t.neuromodus.com^
@@ -94734,6 +94745,7 @@
 ||strakesimians.shop^
 ||strakuty.com^
 ||straletmitvoth.com^
+||stralotsb.com^
 ||stranddecidedlydemeanour.com^
 ||strands.com^
 ||strangeclocks.com^
@@ -98154,6 +98166,7 @@
 ||telemetry.swe.quicinc.com^
 ||telemetry.tableausoftware.com^
 ||telemetry.tradingview.com^
+||telemetry.transcend.io^
 ||telemetry.urs.microsoft.com^
 ||telemetry.vaultdcr.com^
 ||telemetry.voxeet.com^
@@ -100290,6 +100303,7 @@
 ||tqoebc.hopkinsmedicalproducts.com^
 ||tqqjk.top^
 ||tqqxrg.shopandshow.ru^
+||tqrgivpfygemxft.com^
 ||tqrkje.adegraf.com.br^
 ||tqtedm.kosmetik.at^
 ||tqtqvb.xyz^
