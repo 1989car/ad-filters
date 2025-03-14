@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 116308
-! Update Time(UTC+8): 2025-03-14 09:52:05
+! Total count: 116315
+! Update Time(UTC+8): 2025-03-14 16:30:17
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.clicks4me.fwh.is^
@@ -225,6 +225,7 @@
 ||0f269944ac.9c98029b1e.com^
 ||0f461325bf56c3e1b9.com^
 ||0fb.co^
+||0fb.info^
 ||0fb.ltd^
 ||0ffaf504b2.com^
 ||0fmm.com^
@@ -9522,12 +9523,8 @@
 ||aloatchuraimti.net^
 ||alocdn.com^
 ||aloftloan.com^
-||alog.umeng.com^
 ||alog.umengcloud.com^
-||alogs.umeng.com^
 ||alogs.umengcloud.com^
-||alogsus.umeng.com^
-||alogus.umeng.com^
 ||aloha.getoperand.com^
 ||alonehepatitisenough.com^
 ||alongsidelizard.com^
@@ -12960,7 +12957,6 @@
 ||ar.thepornstar.com^
 ||ar.transhero.com^
 ||ar.trashreality.com^
-||ar.umeng.com^
 ||ar.zatube.com^
 ||ar1.aza.io^
 ||ar1nvz5.com^
@@ -35363,7 +35359,6 @@
 ||erraticreaction.com^
 ||errbandsillumination.com^
 ||erringstartdelinquent.com^
-||errlogos.umeng.com^
 ||errolandtessa.com^
 ||error-collector.ted.com^
 ||error-tracking.arvancloud.com^
@@ -36684,6 +36679,8 @@
 ||facai383.oss-cn-guangzhou.aliyuncs.com^
 ||face-book.co^
 ||face2.ishoppingapp.com^
+||faceb.me^
+||faceb.pro^
 ||faceb00k.com.vn^
 ||facebook-ads.hara.vn^
 ||facebook.c0m.ltd^
@@ -37175,6 +37172,7 @@
 ||februaryinjectionproudly.com^
 ||februarynip.com^
 ||febtzd.xyz^
+||fecabooke.com^
 ||fecabookk.com^
 ||fecguzhzeia.vip^
 ||feckephorus.com^
@@ -50113,6 +50111,7 @@
 ||jajnhd.com^
 ||jakvnl.animalkingdoms.co.nz^
 ||jalapicundelve.top^
+||jaletcatena.com^
 ||jaletemetia.com^
 ||jalewaads.com^
 ||jambojar.com^
@@ -68112,6 +68111,7 @@
 ||nqyuel589fq5.esgrounding.com^
 ||nr-data.net^
 ||nr-data.noelleeming.co.nz^
+||nr.bidderstack.com^
 ||nr.noelleeming.co.nz^
 ||nr.static.mmcdn.com^
 ||nr7.us^
@@ -68744,7 +68744,6 @@
 ||obyuhk.mondoaffariweb.it^
 ||obyxuq.gazzy.com.br^
 ||obzukb.banak.com^
-||oc.umeng.com^
 ||oc2tdxocb3ae0r.com^
 ||oca.microsoft.com^
 ||oca.telemetry.microsoft.us^
@@ -72335,6 +72334,7 @@
 ||pdn-3.com^
 ||pdnhcks.xyz^
 ||pdnwbwyf.icu^
+||pdochgl.top^
 ||pdqhxtujn.xyz^
 ||pds.auction.co.kr^
 ||pds.gmarket.co.kr^
@@ -73670,7 +73670,6 @@
 ||playwrightsovietcommentary.com^
 ||playzipgames.co^
 ||plbcsd.vidaxl.se^
-||plbslog.umeng.com^
 ||plbusiness.samsung.com^
 ||plchldr.co^
 ||plczro.21dressroom.com^
@@ -74940,6 +74939,7 @@
 ||proffering.xyz^
 ||profi-link.org^
 ||profile-api.amplitude.com^
+||profile-id.co^
 ||profile-update.healthgrades.com^
 ||profile.marketone.com^
 ||profileid.info^
@@ -93029,6 +93029,7 @@
 ||stat.ncl.com^
 ||stat.njb.nl^
 ||stat.novostimira.com^
+||stat.nsc-lab.io^
 ||stat.ntv.ru^
 ||stat.nyheter24.se^
 ||stat.okko.tv^
@@ -94712,6 +94713,7 @@
 ||stbg.standardbank.com^
 ||stbg.standardbank.mu^
 ||stbg.standardlesothobank.co.ls^
+||stbid.ru^
 ||stbt.coupons.com^
 ||stbuyshopoui.com^
 ||stbvip.net^
@@ -99583,6 +99585,7 @@
 ||tinlequa365.com^
 ||tinlocvang123.com^
 ||tinnhanh24gio.com^
+||tinnong.info^
 ||tinnong.xyz^
 ||tinsukien2021vn.com^
 ||tinsus.com^
@@ -99598,6 +99601,7 @@
 ||tintrian2022.com^
 ||tintuc-24h.com^
 ||tintucnganhang.fun^
+||tintucnhanh.online^
 ||tinvay.vn^
 ||tinvietttt.com^
 ||tiny-atmosphere.com^
@@ -106617,7 +106621,6 @@
 ||ulog*.kwaipros.com^
 ||ulogin-stats.ru^
 ||ulogix.ru^
-||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
 ||ulonataghain.com^
 ||uloscw.xyz^
@@ -106663,6 +106666,7 @@
 ||umebella.com^
 ||umedadelemp.com^
 ||umekana.ru^
+||umeng.com^
 ||umengacs.m.taobao.com^
 ||umengjmacs.m.taobao.com^
 ||umescomymanda.info^
@@ -108895,6 +108899,7 @@
 ||vip.maxtor.com^
 ||vip.min1319.com^
 ||vip.panggugu.com^
+||vip1-droppii.com^
 ||vip8591.net^
 ||vipads.cc^
 ||vipads.live^
@@ -109222,6 +109227,7 @@
 ||vn-eid.com^
 ||vn-email.shop^
 ||vn-express.net^
+||vn-exprress.site^
 ||vn-findmy.com^
 ||vn-hc.info^
 ||vn-i.cloud^
@@ -113509,6 +113515,7 @@
 ||xbbhwggj.icu^
 ||xbc8fsvo5w75wwx8.pro^
 ||xbfebqya.icu^
+||xbfk.cn^
 ||xbgbod.scandinavianoutdoor.se^
 ||xblgdvrassets3010.blob.core.windows.net^
 ||xbmady.daimaru-matsuzakaya.jp^
