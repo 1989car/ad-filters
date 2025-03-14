@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 116289
-! Update Time(UTC+8): 2025-03-14 00:31:33
+! Total count: 116308
+! Update Time(UTC+8): 2025-03-14 09:52:05
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.clicks4me.fwh.is^
@@ -23605,8 +23605,12 @@
 ||creative-serving.com^
 ||creative-stat1.com^
 ||creative.141live.com^
+||creative.boyfriend.show^
 ||creative.camonade.com^
 ||creative.camsplanetlive.com^
+||creative.celebjihad.live^
+||creative.chiccams.com^
+||creative.drtuberlive.com^
 ||creative.favy.cam^
 ||creative.javhdporn.live^
 ||creative.live.javdock.com^
@@ -23617,13 +23621,19 @@
 ||creative.myavlive.com^
 ||creative.ohmycams.com^
 ||creative.prf.hn^
+||creative.rarecams.com^
+||creative.sexfortokens.com^
+||creative.shemale.show^
+||creative.showtime-cams.live^
 ||creative.sphdigital.com^
 ||creative.strip.chat^
 ||creative.stripchat.com^
 ||creative.stripchat.global^
 ||creative.strpjmp.com^
+||creative.superchatlive.com^
 ||creative.thefaplive.com^
 ||creative.tklivechat.com^
+||creative.tranny.show^
 ||creative.upskirtlive.com^
 ||creative.usasexcams.com^
 ||creative.ytboob.live^
@@ -38645,6 +38655,7 @@
 ||fpvrgm.blackforestdecor.com^
 ||fpwshgkud.com^
 ||fpxewa.ilmeteo.it^
+||fpxhdx.icu^
 ||fpxuov.euroconference.it^
 ||fpxzzy.mecalux.de^
 ||fpzpmx.com^
@@ -51185,6 +51196,7 @@
 ||junmediadirect.com^
 ||junmediadirect1.com^
 ||junoshop.online^
+||juoykjbernjrs.com^
 ||jupabwmocgqxeo.com^
 ||jupiterhealth-app.hotdoc.com.au^
 ||jurantsepinine.shop^
@@ -55173,6 +55185,7 @@
 ||lmdfmd.com^
 ||lmeniu.timberland.com.au^
 ||lmepbq.com^
+||lmeurbnjs.com^
 ||lmfsga.chojyu.com^
 ||lmgenf.ludwigbeck.de^
 ||lmgvur.scbt.com^
@@ -57694,6 +57707,7 @@
 ||lqclick.com^
 ||lqcngjecijy.rocks^
 ||lqdeyv.thepopcornfactory.com^
+||lqfctb.icu^
 ||lqgenuq-j.life^
 ||lqklml.amikado.com^
 ||lqlwjr.icu^
@@ -70465,6 +70479,7 @@
 ||otofthesefa.org^
 ||otomacotelugu.com^
 ||otoshiana.com^
+||otoyueuprumok.icu^
 ||otr.kaspersky.ca^
 ||otr.kaspersky.co.jp^
 ||otr.kaspersky.co.uk^
@@ -108131,6 +108146,7 @@
 ||veepteecejoushe.net^
 ||veepteero.com^
 ||veeqlly.com^
+||veezljzkrjakz.top^
 ||veezudeedou.net^
 ||vefun.net^
 ||vegabet.net^
@@ -110893,6 +110909,7 @@
 ||webmobile.ws^
 ||webnapgame.com^
 ||webnapthegame.com^
+||weborama-tech.ru^
 ||weborama.com^
 ||weborama.fr^
 ||webpage.state.co.nz^
@@ -111399,6 +111416,7 @@
 ||whitepixel.com^
 ||whizblam.nikelburs.tech^
 ||whizzco.com^
+||whizzerrapiner.com^
 ||whjibbprhng.com^
 ||whmdrv.marpple.com^
 ||whoansodroas.net^
@@ -113652,6 +113670,7 @@
 ||xiaoshuoyun.cn^
 ||xiazai.xiaomi.com^
 ||xibspj.komehyo.jp^
+||xielloltv.com^
 ||xiepl.com^
 ||xijgedjgg5f55.com^
 ||xiji.de^
