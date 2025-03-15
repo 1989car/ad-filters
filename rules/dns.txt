@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 116365
-! Update Time(UTC+8): 2025-03-15 16:28:38
+! Total count: 116386
+! Update Time(UTC+8): 2025-03-16 00:27:00
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.clicks4me.fwh.is^
@@ -1989,6 +1989,7 @@
 ||74759411.xyz^
 ||747dc46a4d.8428db03e3.com^
 ||7503.5clo0xmbf.com^
+||75114620.xyz^
 ||75264920.xyz^
 ||75357f7aec.f5ea66a9f7.com^
 ||75616927db.6096db9a2b.com^
@@ -23303,6 +23304,7 @@
 ||coursejavgg124.fun^
 ||coursewimplongitude.com^
 ||courthouselaterfunctions.com^
+||coushewitalouti.net^
 ||couvxlif.top^
 ||couwainu.xyz^
 ||couwhivu.com^
@@ -30503,6 +30505,7 @@
 ||dfapvmql-q.global.ssl.fastly.net^
 ||dfd55780d6.com^
 ||dfdgfruitie.xyz^
+||dfe89deba4.com^
 ||dfeenxea.tidc.bid^
 ||dffa09cade.com^
 ||dffpxg.targus.com^
@@ -30715,6 +30718,7 @@
 ||dibtk.medtronic.com^
 ||dic9vgwbkxd8r.cloudfront.net^
 ||dicerchaster.top^
+||dicesstipo.com^
 ||diceunacceptable.com^
 ||dich-vu-dien-mayxanh.com^
 ||dich-vu-kh-vip-vpbank.com^
@@ -35342,6 +35346,7 @@
 ||ergyfrommo.cfd^
 ||eringosdye.com^
 ||erinoseowrehip.top^
+||eriverwasquitefullo.com^
 ||erkaevhlcp.com^
 ||erkaseriilan.com.tr^
 ||erkili.kaporal.com^
@@ -37277,6 +37282,7 @@
 ||fellowshipvillage.fellowshiplifeinc.org^
 ||fellrummageunpleasant.com^
 ||felonauditoriumdistant.com^
+||felsaulaft.com^
 ||feltatchaiz.net^
 ||femefaih.com^
 ||femetrics.grammarly.io^
@@ -38496,6 +38502,7 @@
 ||forthdigestive.com^
 ||forthnorriscombustible.com^
 ||forthright-car.pro^
+||fortinomitter.com^
 ||fortitudeare.com^
 ||fortnight.space^
 ||fortnitechat.site^
@@ -40033,6 +40040,7 @@
 ||geocompteur.com^
 ||geocontatore.com^
 ||geodator.com^
+||geodesykines.shop^
 ||geoedge.be^
 ||geofamily.ru^
 ||geofence.sys.miui.com^
@@ -40480,6 +40488,7 @@
 ||ghcaoaefmj.com^
 ||ghd.vsee.me^
 ||ghdlry.greetz.nl^
+||ghegaintp.com^
 ||gheqien.com^
 ||gherkax.com^
 ||gheslosy.com^
@@ -50012,6 +50021,7 @@
 ||ixtzad.fetch.co.uk^
 ||ixwereksbeforeb.info^
 ||ixwloxw.com^
+||ixyyijop.com^
 ||iy8yhpmgrcpwkcvh.pro^
 ||iycifx.coldwatercreek.com^
 ||iyes.youku.com^
@@ -63962,6 +63972,7 @@
 ||meypeg.videdressing.ch^
 ||meypeg.videdressing.co.uk^
 ||meypeg.videdressing.com^
+||mezcalumlaut.com^
 ||mezima.com^
 ||mezzobit.com^
 ||mezzounmerge.shop^
@@ -68356,6 +68367,7 @@
 ||numerino.cz^
 ||numerousnest.com^
 ||nums.upscale.app^
+||nunciodekare.shop^
 ||nunearn.com^
 ||nunhoodpanmug.shop^
 ||nuniceberg.com^
@@ -68928,6 +68940,7 @@
 ||ofeetles.pro^
 ||offaces-butional.com^
 ||offalakazaman.com^
+||offb.info^
 ||offchatotor.com^
 ||offclaydolon.com^
 ||offdeck.telkomsel.com^
@@ -69012,6 +69025,7 @@
 ||ofgogoatan.com^
 ||ofgulpinan.com^
 ||ofhappinyer.com^
+||ofhisladyloveheh.com^
 ||ofhunch.com^
 ||ofhypnoer.com^
 ||oficial.cuidadosdemae.site^
@@ -71331,6 +71345,7 @@
 ||pampergloriafable.com^
 ||pamperseparate.com^
 ||pampervacancyrate.com^
+||pamperwoody.com^
 ||pamphletredhead.com^
 ||pamphletthump.com^
 ||pampopholf.com^
@@ -73126,6 +73141,7 @@
 ||pipedream.wistia.com^
 ||pipeofferear.com^
 ||piper.amocrm.ru^
+||pipernosuccahs.top^
 ||pipeschannels.com^
 ||pipilimagine.shop^
 ||pipiska221net.shop^
@@ -77930,6 +77946,7 @@
 ||reekedtravels.shop^
 ||reekhearsay.shop^
 ||reeledou.com^
+||reelingalgoid.com^
 ||reelnk.com^
 ||reemo-ad.jp^
 ||reenakun.com^
@@ -78860,6 +78877,7 @@
 ||rftwmk.skin.ro^
 ||rg-be.ru^
 ||rgadvert.com^
+||rgavvimsecmbo.life^
 ||rgb9uinh2dej9ri.jacobzhang.de^
 ||rgbnqmz.com^
 ||rgbppxtvieoytnoej.org^
@@ -79483,6 +79501,7 @@
 ||rpnvib.estilos.com.pe^
 ||rpofsweden.com^
 ||rpofsweden.se^
+||rpokplgddrbjg.site^
 ||rpozzl.happy-size.de^
 ||rppumxa.com^
 ||rprapjc.com^
@@ -109236,6 +109255,7 @@
 ||vmizah.smartphoto.no^
 ||vmjcpz.brandbigmall.com^
 ||vmjdpk.repairclinic.com^
+||vmjr.cn^
 ||vmkdfdjsnujy.xyz^
 ||vmkjsc.nanajean.co.kr^
 ||vmkoqak.com^
@@ -113638,6 +113658,7 @@
 ||xegluwate.com^
 ||xehodv.xyz^
 ||xehyjx.icu^
+||xeiidlkuxsos.com^
 ||xejpzk.fram.fr^
 ||xekjzy.rinascente.it^
 ||xel-xel-fie.com^
