@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 116353
-! Update Time(UTC+8): 2025-03-15 00:29:31
+! Total count: 116364
+! Update Time(UTC+8): 2025-03-15 09:51:12
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.clicks4me.fwh.is^
@@ -7940,6 +7940,7 @@
 ||adw.gomtv.com^
 ||adw.heraldm.com^
 ||adw.sapo.pt^
+||adwadvert.com.ua^
 ||adwalte.info^
 ||adway.org^
 ||adwebster.com^
@@ -9142,6 +9143,7 @@
 ||ak-tracker.com^
 ||ak.maneasiestways.com^
 ||ak.youbetterhealthy.com^
+||ak03150hou.com^
 ||ak0gsh40.com^
 ||ak9.6895588.com^
 ||akabo.ru^
@@ -11301,6 +11303,7 @@
 ||anticipationnonchalanceaccustomed.com^
 ||antico.openapp.link^
 ||antillephone.com^
+||antiqueskinnyminute.com^
 ||antiquespecialtyimpure.com^
 ||antiquitytissuepod.com^
 ||antiredcessant.com^
@@ -39749,6 +39752,7 @@
 ||gaupsaur.xyz^
 ||gauqoith.com^
 ||gaushaih.xyz^
+||gaustechumoluth.net^
 ||gaustele.xyz^
 ||gauvaiho.net^
 ||gauwanouzeebota.net^
@@ -39808,6 +39812,7 @@
 ||gbqofs.com^
 ||gbrrrxbodqdlq.com^
 ||gbrvxs.xlo.sk^
+||gbsqwsjv.com^
 ||gbtracking.cubiq.com^
 ||gbtracking.finning.com^
 ||gbucket.ch^
@@ -43469,6 +43474,7 @@
 ||guptetoowheerta.net^
 ||guq9.vente-unique.it^
 ||guqoinly.com^
+||guqransoq.com^
 ||gurgle.pcmag.com^
 ||gurgle.spiceworks.com^
 ||guro2.com^
@@ -53726,6 +53732,7 @@
 ||lfqyah.pureformulas.com^
 ||lfrdskwj.icu^
 ||lfstmedia.com^
+||lftcph.icu^
 ||lftpvh.xyz^
 ||lfuzec.bglen.net^
 ||lfwrss.ciarkodesign.com^
@@ -63217,6 +63224,7 @@
 ||metrics.nowtv.com^
 ||metrics.npr.org^
 ||metrics.nrma.com.au^
+||metrics.nsureapi.com^
 ||metrics.ntnews.com.au^
 ||metrics.nu.nl^
 ||metrics.nutraingredients-asia.com^
@@ -65787,6 +65795,7 @@
 ||mvtracker.com^
 ||mvwitz.xyz^
 ||mvwslulukdlux.xyz^
+||mvxh.cn^
 ||mwa.meanwellaustralia.com.au^
 ||mwaldd.laudius.nl^
 ||mwbhkv.plasico.bg^
@@ -69905,6 +69914,7 @@
 ||ooascm.ashild.se^
 ||oobitsou.net^
 ||oobsaurt.net^
+||oocecmauhe.net^
 ||oockighuchee.com^
 ||oocmoaghurs.net^
 ||oocrzh.byojet.com^
@@ -76106,6 +76116,7 @@
 ||qal0.destinia.gr^
 ||qamnyl.bever.nl^
 ||qange.com^
+||qanqizywghyna.xyz^
 ||qarewien.com^
 ||qarlfj.pamono.fr^
 ||qasforsalesrep.info^
