@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 116364
-! Update Time(UTC+8): 2025-03-15 09:51:12
+! Total count: 116365
+! Update Time(UTC+8): 2025-03-15 16:28:38
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.clicks4me.fwh.is^
@@ -1651,6 +1651,7 @@
 ||56rt2692.de^
 ||5707f9766c.com^
 ||57236.79j68qav2.com^
+||57473094.xyz^
 ||574ae48fe5.com^
 ||5755.tsmt5revp.com^
 ||57573zubo36833.com^
