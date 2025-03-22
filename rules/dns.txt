@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 117171
-! Update Time(UTC+8): 2025-03-22 16:28:18
+! Total count: 117184
+! Update Time(UTC+8): 2025-03-23 00:27:35
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.clicks4me.fwh.is^
@@ -1393,6 +1393,7 @@
 ||456vdghgj30.dyndns.org^
 ||4582.935ft4j96.com^
 ||4597.5clo0xmbf.com^
+||459b6951ca.com^
 ||45cb7b8453.com^
 ||45cf2c258c.a272118d17.com^
 ||45d31559c9.26fc91ec79.com^
@@ -2342,6 +2343,7 @@
 ||9400.4puuqeh41.com^
 ||9421d59b1d.com^
 ||9443.5clo0xmbf.com^
+||94444717.xyz^
 ||9452.79j68qav2.com^
 ||94597672.xyz^
 ||94789b3f8f.com^
@@ -12949,6 +12951,7 @@
 ||aqcutwom.xyz^
 ||aqdwkq.hihometech.net^
 ||aqeivzm.icu^
+||aqgyncebdxmpw.icu^
 ||aqhz.xyz^
 ||aqi.wd.amberweather.com^
 ||aqjbfed.com^
@@ -14174,6 +14177,7 @@
 ||aviite.freaksstore.com^
 ||avjadt.e-look.jp^
 ||avjbjbekaazzw.top^
+||avkd.cn^
 ||avloan3431.fun^
 ||avmonk3431.fun^
 ||avmws.com^
@@ -15635,6 +15639,7 @@
 ||becominggunpowderpalette.com^
 ||becorsolaom.com^
 ||becrustleom.com^
+||bedaoibe.com^
 ||bedaslonej.com^
 ||bedaslonejul.cc^
 ||beddermidlegs.shop^
@@ -34154,6 +34159,7 @@
 ||elatedynast.com^
 ||elaterconditing.info^
 ||elaydark.com^
+||eldaridpr.com^
 ||elderlybean.com^
 ||elderlyinsect.com^
 ||elderlyscissors.com^
@@ -46206,6 +46212,7 @@
 ||hxnxxq.tophifi.pl^
 ||hxoewq.com^
 ||hxvksgwv.luggagehero.com^
+||hxxkalmsovxvcp.com^
 ||hy.huangye88.com.cn^
 ||hy.huangye88.net^
 ||hy90.cn^
@@ -46552,6 +46559,7 @@
 ||icorpado.urbo.ro^
 ||icsoqxwevywn.com^
 ||icstats.nl^
+||icswdocmv.on-ke.tech^
 ||ictrjw.barcastores.com^
 ||icubeswire.co^
 ||icudqq.xyz^
@@ -59295,6 +59303,7 @@
 ||manughl.de^
 ||manureinforms.com^
 ||manureoddly.com^
+||maoeoa.xyz^
 ||map-s.online^
 ||map.rockwellautomation.com^
 ||mapamnni.com^
@@ -69443,6 +69452,7 @@
 ||oeiqfl.kiralikvilladatatil.com^
 ||oek7.april-moto.com^
 ||oeko.immergruen-energie.de^
+||oelj.cn^
 ||oelwojattkd.xyz^
 ||oempafnyfiexpe.com^
 ||oeqirr.com^
@@ -73737,6 +73747,7 @@
 ||piroquealcmene.com^
 ||pirounakia.openapp.link^
 ||pirtecho.net^
+||pisachafibular.top^
 ||pisb.cn^
 ||pisehiation.shop^
 ||pisgahserve.com^
@@ -116252,6 +116263,7 @@
 ||yxpmkgzsqcxyu.site^
 ||yxpojn.lampenlicht.nl^
 ||yxqfkm.24mx.de^
+||yxqmryq.top^
 ||yxrmbjw.icu^
 ||yxsdgi.bedworld.net^
 ||yxswtummev.info^
@@ -116750,6 +116762,7 @@
 ||zkdkvnzsdxge.info^
 ||zkebwy.copenhagenstudios.com^
 ||zkgbkn.pinkwoman-fashion.com^
+||zkika.okyla.de^
 ||zkkkvb.welovebags.de^
 ||zkmhhr1fr79z.dictionary.basabali.org^
 ||zknrhv.sebago.com^
