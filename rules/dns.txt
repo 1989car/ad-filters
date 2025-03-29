@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 117916
-! Update Time(UTC+8): 2025-03-29 00:30:43
+! Total count: 117930
+! Update Time(UTC+8): 2025-03-29 09:54:25
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.clicks4me.fwh.is^
@@ -8953,6 +8953,7 @@
 ||ainu.intel.la^
 ||ainu.intel.pl^
 ||ainuftou.net^
+||aiolkyocbiwevv.com^
 ||aipaistop.insulinsolutionhub.com^
 ||aipaistop.passionatelifeinsights.com^
 ||aipaistop.urogymansclinic.com^
@@ -9871,6 +9872,7 @@
 ||an.constantcontact.com^
 ||an.dongphim.net^
 ||an.facebook.com^
+||an.mail.ru^
 ||an.milb.com^
 ||an.mlb.com^
 ||an.reflektion.com^
@@ -25355,6 +25357,7 @@
 ||d25m254rjp3rii.cloudfront.net^
 ||d25sca3heoa1so.cloudfront.net^
 ||d25xkbr68qqtcn.cloudfront.net^
+||d25yl3zz7cfmzs.cloudfront.net^
 ||d261u4g5nqprix.cloudfront.net^
 ||d263ut03kf37wj.cloudfront.net^
 ||d264dxqvolp03e.cloudfront.net^
@@ -37908,6 +37911,7 @@
 ||fidelity-media.com^
 ||fidelitybarge.com^
 ||fidnfd.fasterprint.com^
+||fidsdeign.shop^
 ||fieldparishskip.com^
 ||fiendpreyencircle.com^
 ||fieryinjure.com^
@@ -41055,6 +41059,7 @@
 ||giotyo.com^
 ||giovangvn999.com^
 ||gipeucn.icu^
+||giphaudoq.com^
 ||gipostart-1.co^
 ||gipsiesthyrsi.com^
 ||gipsyhit.com^
@@ -41341,6 +41346,7 @@
 ||glolsoarti.net^
 ||glomtipagrou.xyz^
 ||gloodsie.com^
+||gloofeeghiby.net^
 ||glooftezoad.net^
 ||gloogruk.com^
 ||gloohozedoa.xyz^
@@ -51270,6 +51276,7 @@
 ||joahahewhoo.net^
 ||joajazaicoa.xyz^
 ||joamenoofoag.net^
+||joaphaufouy.net^
 ||joaqaylueycfqw.xyz^
 ||joastaca.com^
 ||joastoom.xyz^
@@ -58934,6 +58941,7 @@
 ||lylufhuxqwi.com^
 ||lymckensecuryren.org^
 ||lynjbq.sizeofficial.nl^
+||lynnegomerel.top^
 ||lynx.gruender.de^
 ||lynx.inovo.io^
 ||lynx.lumy.network^
@@ -68691,6 +68699,7 @@
 ||noafoaji.xyz^
 ||noahilum.net^
 ||noapsovochu.net^
+||noarefocoush.com^
 ||noaviphesh.net^
 ||noawanincreasein.com^
 ||nobeta.com.br^
@@ -75308,6 +75317,7 @@
 ||postut.cn^
 ||postvay.com^
 ||potailvine.com^
+||potatoesejection.com^
 ||potatoinvention.com^
 ||potawe.com^
 ||potedraihouxo.xyz^
@@ -76512,6 +76522,7 @@
 ||ptoorauptoud.net^
 ||ptootsailrou.net^
 ||ptootseegle.net^
+||ptootutseh.net^
 ||ptoriq.kristall-shop.ru^
 ||ptouckop.xyz^
 ||ptougeegnep.net^
@@ -101488,6 +101499,7 @@
 ||toftforcal.com^
 ||togemantedious.top^
 ||togenron.com^
+||togerspas.com^
 ||togetherballroom.com^
 ||toggledmouton.com^
 ||toglooman.com^
@@ -111100,6 +111112,7 @@
 ||vqjacf.mauriziocollectionstore.com^
 ||vqlwoy.xyz^
 ||vqonjcnsl.com^
+||vqoqlebqqammj.top^
 ||vqp3.madeindesign.co.uk^
 ||vqpque.eloan.co.jp^
 ||vqrozzojjlwbz.top^
@@ -112821,6 +112834,7 @@
 ||whidsugnoackili.net^
 ||whilstrorty.com^
 ||whimmedcaptain.shop^
+||whimogheshestid.net^
 ||whimqe.etretokyo.jp^
 ||whimsicalcanyon.com^
 ||whimsicalcoat.com^
