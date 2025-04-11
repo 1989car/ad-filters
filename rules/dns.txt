@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 117288
-! Update Time(UTC+8): 2025-04-11 09:57:42
+! Total count: 117294
+! Update Time(UTC+8): 2025-04-11 16:32:45
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.clicks4me.fwh.is^
@@ -31869,6 +31869,7 @@
 ||dnre5xkn2r25r.cloudfront.net^
 ||dnrpnl.yves-rocher.no^
 ||dns-clientinfo.cbsivideo.com^
+||dns-clientinfo.vtg.paramount.tech^
 ||dns-log.d-n-s.org.uk^
 ||dns.chuzushijian.cn^
 ||dns.g8z.net^
@@ -50730,6 +50731,7 @@
 ||jmcnwr.bricoprive.com^
 ||jmesxbe.icu^
 ||jmfgxq.vitalsleep.com^
+||jmif.cn^
 ||jmipzsn.icu^
 ||jmixgqcfcukm.xyz^
 ||jmopproojsc.xyz^
@@ -65368,6 +65370,9 @@
 ||monitor.channel4.com^
 ||monitor.ebay.com^
 ||monitor.music.qq.com^
+||monitor.ns1-d.viacomtech.net^
+||monitor.ns1-s.rspcdn.net^
+||monitor.r53.cbsivideo.com^
 ||monitor.teko.vn^
 ||monitoring-sdk.experimentation.intuit.com^
 ||monitoring.iraiser.eu^
@@ -114477,6 +114482,7 @@
 ||xdowl0adxd0wnloadx.com^
 ||xdownloadright.com^
 ||xdrig.com^
+||xdrlthfhikvgm.club^
 ||xdsblm.ullapopken.de^
 ||xdsgbkfkm.com^
 ||xdsp.snadx.com^
