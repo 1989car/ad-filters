@@ -1,6 +1,6 @@
 ! Title: Big Ad filter
-! Total count: 119291
-! Update Time(UTC+8): 2025-05-24 00:31:56
+! Total count: 119316
+! Update Time(UTC+8): 2025-05-24 09:59:57
 ||*.exaapi.com^
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
@@ -1866,6 +1866,7 @@
 ||7aey.icu^
 ||7amz.com^
 ||7anfpatlo8lwmb.com^
+||7awf4fi9k7.com^
 ||7b5f77dbb5.com^
 ||7b91f8c7a4.com^
 ||7bb93f4eed.dd01ec0a9f.com^
@@ -20129,6 +20130,7 @@
 ||chamsocthekhachhang-uudai-tructuyen-thang9.com.vn^
 ||chamsocthekhachhang-uudai-tructuyen.com^
 ||chamsocuudaithekhachhang-tructuyen.com^
+||chamtuboalteecu.net^
 ||chanalytics.merchantadvantage.com^
 ||chancecorny.com^
 ||chancellorharrowbelieving.com^
@@ -20442,6 +20444,7 @@
 ||chovaytiengopsg.com^
 ||chovaytieudung.online^
 ||choymp.pooldawg.com^
+||chpadblock.com^
 ||chpspb.bubbleroom.fi^
 ||chr.conservativehealthreport.org^
 ||chrantary-vocking.com^
@@ -31495,6 +31498,7 @@
 ||dinomicrummies.com^
 ||dinseegny.com^
 ||dintanopdgzi.com^
+||dinterperson.org^
 ||dinvziwfia.com^
 ||diobolazafran.top^
 ||dioceseevokekindred.com^
@@ -32936,6 +32940,7 @@
 ||dufflesmorinel.com^
 ||dufixen.com^
 ||duftiteenfonce.com^
+||duftoansog.com^
 ||dugothitachan.com^
 ||dugraukeeck.net^
 ||dugrozufo.com^
@@ -39819,6 +39824,7 @@
 ||fxreferral.americanexpress.com^
 ||fxsdex.longvadon.com^
 ||fxshopeevip99.com^
+||fxvvraqymwsjmmq.com^
 ||fxyoxe.99gafas.com^
 ||fxyvcz.thecompanystore.com^
 ||fy60.icu^
@@ -40245,6 +40251,7 @@
 ||gauzelike26.fun^
 ||gavearsonistclever.com^
 ||gaveasword.com^
+||gavm.cn^
 ||gawayez.e-postserv.com^
 ||gawnaze.com^
 ||gay-hotvideo.net^
@@ -56021,6 +56028,7 @@
 ||lk.vrstories.com^
 ||lkcoffe.com^
 ||lkcxde.miliboo.de^
+||lkdqrtsj6g.com^
 ||lkdvvxvtsq6o.com^
 ||lkdyft.xyz^
 ||lkfxhs.axess-industries.com^
@@ -70489,6 +70497,7 @@
 ||ogrepsougie.net^
 ||ogsbpoofzlk.com^
 ||ogscis.vitacup.com^
+||ogswicatpgwe.com^
 ||ogszujfp.com^
 ||ogt.jp^
 ||ogtz5yn2u1.ru^
@@ -70735,6 +70744,7 @@
 ||olqsty.izipizi.com^
 ||olroyk.ardene.com^
 ||olspyo.laredoute.co.uk^
+||olssqlxovy.com^
 ||oltdvb.elandmall.com^
 ||olularhenewrev.info^
 ||olwqxg.europcar.it^
@@ -71542,6 +71552,7 @@
 ||opsdata.hicloud.com^
 ||opskxz.rosettastone.com^
 ||opsoomet.net^
+||opsqhlptnxmxn.com^
 ||opt-intelligence.com^
 ||opt.delta.com^
 ||opt8.co^
@@ -72206,6 +72217,7 @@
 ||ovrsso.gemo.fr^
 ||ovtvfydcyor.com^
 ||ovtwiparr.com^
+||ovtzuuepngygl.icu^
 ||ovwajzobpo.com^
 ||ovwgcyahfot.com^
 ||ovwhukdwo.com^
@@ -76518,6 +76530,7 @@
 ||pseergoa.net^
 ||pseerooltougna.net^
 ||pseexauboorsu.com^
+||psegaifeed.net^
 ||psegeevalrat.net^
 ||pseleexotouben.net^
 ||psergete.com^
@@ -82391,6 +82404,7 @@
 ||sahpupxhyk.com^
 ||sahqoo.com^
 ||sahqtibw.com^
+||sai7348.xyz^
 ||saidtheswallow.com^
 ||saifcrack.com^
 ||saikothiphoopt.com^
@@ -85834,6 +85848,7 @@
 ||shenouth.com^
 ||shenwhentheautu.com^
 ||sheoil.newyorkandcompany.com^
+||sheotpon.com^
 ||shepeekr.net^
 ||shepherdalmightyretaliate.com^
 ||sheregesh-io.traveler.today^
@@ -86936,6 +86951,7 @@
 ||skltrachqwbd.com^
 ||skmcwz.haselmode.co.kr^
 ||skmqbs.deephouse.pro^
+||skmwqnhqhlceg.site^
 ||skosgrill.openapp.link^
 ||skppwc.billabong.com.br^
 ||skpxim.namly.se^
@@ -102026,6 +102042,7 @@
 ||tjbhng.hemington.com.tr^
 ||tjddgt.portmans.nz^
 ||tjekscores.dk^
+||tjepekenkccqi.online^
 ||tjfot.com^
 ||tjimtyi.top^
 ||tjinit-event.babybus.com^
@@ -110404,7 +110421,6 @@
 ||v4p.fun^
 ||v6rxv5coo5.com^
 ||v812.lakecountystar.com^
-||v8b9c0x1z2.sai7348.xyz^
 ||v9banners-com.cdn.ampproject.org^
 ||v9banners.com^
 ||vaatmetu.net^
@@ -110758,6 +110774,7 @@
 ||vbjzdl.top^
 ||vbkryy.pasonacareer.jp^
 ||vbllxaaj.icu^
+||vbmjlevwwvqvz.top^
 ||vbmjlevwwvyzj.top^
 ||vboiutv.xyz^
 ||vboro.de^
@@ -111008,6 +111025,7 @@
 ||veumpy.shooos.sk^
 ||veutax.atlasformen.ru^
 ||vevebiendaovietnam2022.weebly.com^
+||vevikynr.com^
 ||vewbab.entertainmentearth.com^
 ||vexevutus.com^
 ||vexolinu.com^
@@ -113167,6 +113185,7 @@
 ||wctr.vitanova-kliniken.de^
 ||wctsub.hostingcheck24.de^
 ||wctsub.start24.nl^
+||wcuggkuxfgutu.today^
 ||wcwijbtqgajxf.global^
 ||wcwkcus.top^
 ||wcxsiz.bulkpowders.co.uk^
@@ -115187,6 +115206,7 @@
 ||wwjdxc.pixartprinting.it^
 ||wwlrtp.a-demain.shop^
 ||wwm24.de^
+||wwmnga.icu^
 ||wwnscv.myspringfield.com^
 ||wwok04281kl.com^
 ||wwok04291kl.com^
@@ -116455,6 +116475,7 @@
 ||xhwwcif.com^
 ||xhxmhs.ounass.ae^
 ||xhzspi.com^
+||xiabaokar.com^
 ||xiajgy.taisho-beauty.jp^
 ||xianliao.voto^
 ||xianshangzixun.com^
@@ -118761,6 +118782,7 @@
 ||zikeke7.com^
 ||zikpwr.com^
 ||zikroarg.com^
+||zikugaudeegri.net^
 ||zilchesmoated.com^
 ||zilhvf.hesperide.com^
 ||zilmwz.gsm55.it^
@@ -118941,6 +118963,7 @@
 ||znq9.destinia.mx^
 ||znrttr.jaypore.com^
 ||znzfvmdtklsvv.xyz^
+||znzyuxzehuk.com^
 ||zoachoar.net^
 ||zoachops.com^
 ||zoagremo.net^
@@ -119189,6 +119212,7 @@
 ||zvnlfj.laredoute.pt^
 ||zvoift.autouncle.pt^
 ||zvrbwf.drogerienatura.pl^
+||zvsglctjjmstn.space^
 ||zvvpcz.puravita.ch^
 ||zvvqprcjjnh.com^
 ||zvvsjz.top^
@@ -119213,6 +119237,7 @@
 ||zwqzxh.com^
 ||zwtiif.veillon.ch^
 ||zwuyzk.aabcollection.com^
+||zwxwpnkdaswfn.site^
 ||zwyjpyocwv.com^
 ||zx.docin.com^
 ||zxbumj.edreams.it^
